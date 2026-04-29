@@ -42,7 +42,10 @@ const PROJECT_DIR   = __dirname;
 const FFMPEG        = '/usr/bin/ffmpeg';
 const MANIFEST_PATH = path.join(PROJECT_DIR, 'narration-audio', 'manifest.json');
 const OUTPUT_PATH   = path.join(PROJECT_DIR, 'NH-Care-Center-Orientation.mp4');
-const SPEED_MULT    = 2;   // animation plays this many × faster during recording
+// Animation plays at this multiple of real-time during recording. Set to 1
+// to record in real-time — necessary because at 2× the in-browser RAF speedup
+// outruns Chrome's ability to render the SVG, causing visuals to lag audio.
+const SPEED_MULT    = 1;
 
 // ── Scene timeline (must match SCENES array in the HTML) ─────────────────────
 const SCENES = [
@@ -179,6 +182,9 @@ async function captureVideo(videoOutPath) {
     viewport: { width: 1920, height: 1080 },
     recordVideo: { dir: tmpDir, size: { width: 1920, height: 1080 } },
   });
+  // Playwright begins recording as soon as the context exists. Anchor the
+  // recording-start wall-clock here so we can trim the pre-roll later.
+  const recordingStartedAt = Date.now();
 
   const page = await context.newPage();
 
@@ -246,12 +252,17 @@ async function captureVideo(videoOutPath) {
 
   log(`Starting animation (will run at ${SPEED_MULT}× speed)…`);
   await page.keyboard.press('Space');
+  const animationStartedAt = Date.now();
+  const preRollWallSec = (animationStartedAt - recordingStartedAt) / 1000;
+  log(`  Pre-roll before Space press: ${preRollWallSec.toFixed(2)}s wall-clock (will be trimmed)`);
 
   const recordingMs = Math.ceil(TOTAL_DURATION / SPEED_MULT) * 1000 + 6_000;
   log(`Waiting ${Math.round(recordingMs / 1000)}s for animation to finish…`);
   await page.waitForTimeout(recordingMs);
 
   log('Closing browser…');
+  const recordingEndedAt = Date.now();
+  const wallDurSec = (recordingEndedAt - recordingStartedAt) / 1000;
   await context.close();
   await browser.close();
   server.close();
@@ -262,18 +273,43 @@ async function captureVideo(videoOutPath) {
   fs.copyFileSync(path.join(tmpDir, webms[0]), videoOutPath);
   fs.rmSync(tmpDir, { recursive: true, force: true });
   log('Raw video captured: ' + videoOutPath);
+
+  // Probe the actual webm duration. Playwright records at fixed 25 fps
+  // cadence, but Chromium delivers frames faster than that, so the webm's
+  // declared duration is longer than wall-clock. Compute the scale factor
+  // so we can compress playback back to wall-clock during merge.
+  const probe = spawnSync(FFMPEG.replace(/ffmpeg$/, 'ffprobe'),
+    ['-v', 'error', '-show_entries', 'format=duration', '-of', 'default=nw=1:nk=1', videoOutPath],
+    { encoding: 'utf8' });
+  const webmDurSec = parseFloat(probe.stdout.trim());
+  const scale = wallDurSec / webmDurSec;  // <1 means webm is "stretched"; we'll compress
+  log(`  Wall-clock recording: ${wallDurSec.toFixed(2)}s, webm duration: ${webmDurSec.toFixed(2)}s, scale: ${scale.toFixed(4)}`);
+  return { preRollWallSec, wallDurSec, webmDurSec, scale };
 }
 
-// ── Step 3: Slow video + merge audio ─────────────────────────────────────────
-function mergeVideoAudio(rawVideoPath, audioPath, outPath) {
-  log('Slowing video and merging audio…');
+// ── Step 3: Trim, scale to wall-clock, merge audio ───────────────────────────
+function mergeVideoAudio(rawVideoPath, audioPath, outPath, captureMeta) {
+  const { preRollWallSec, wallDurSec, webmDurSec, scale } = captureMeta;
+  log('Trimming, scaling, and merging audio…');
 
-  // setpts=N*PTS stretches time by N (undoes the SPEED_MULT speedup).
-  // fps=30 re-stamps frames at 30fps to avoid VFR weirdness.
+  // Webm encodes recording at fixed 25fps cadence, but Chromium delivers
+  // frames faster, so 1s of webm = `scale`s of wall-clock. Scaling video
+  // PTS by `scale` compresses the webm back to wall-clock duration, after
+  // which video timeline matches the audio timeline.
+  //
+  // The pre-roll is measured in wall-clock seconds; convert to webm seconds
+  // (1/scale) so -ss seeks to the right position in the unscaled webm.
+  const preRollWebmSec = preRollWallSec / scale;
+  log(`  Pre-roll trim: ${preRollWebmSec.toFixed(2)}s in webm time (${preRollWallSec.toFixed(2)}s wall-clock)`);
+  log(`  setpts factor: ${scale.toFixed(4)} (compresses ${webmDurSec.toFixed(0)}s webm → ${wallDurSec.toFixed(0)}s wall-clock)`);
+  log(`  Output capped at TOTAL_DURATION = ${TOTAL_DURATION}s`);
+
   const args = [
+    '-ss', preRollWebmSec.toFixed(3),
     '-i', rawVideoPath,
     '-i', audioPath,
-    '-filter:v', `setpts=${SPEED_MULT}.0*PTS,fps=fps=30`,
+    '-filter:v', `setpts=${scale.toFixed(6)}*PTS,fps=fps=30`,
+    '-t', String(TOTAL_DURATION),
     '-c:v', 'libx264',
     '-preset', 'fast',
     '-crf', '22',
@@ -300,8 +336,8 @@ async function main() {
 
   try {
     buildAudio(tmpAudio);
-    await captureVideo(tmpVideo);
-    mergeVideoAudio(tmpVideo, tmpAudio, OUTPUT_PATH);
+    const captureMeta = await captureVideo(tmpVideo);
+    mergeVideoAudio(tmpVideo, tmpAudio, OUTPUT_PATH, captureMeta);
 
     const stat = fs.statSync(OUTPUT_PATH);
     log(`\nDone!  ${OUTPUT_PATH}  (${(stat.size / 1024 / 1024).toFixed(1)} MB)`);
