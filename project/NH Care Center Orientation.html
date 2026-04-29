@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>NH Care Center — New Employee Orientation</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500;1,9..144,600&family=Nunito:wght@400;500;600;700;800&family=Caveat:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #0a0a0a; overflow: hidden; }
+  #root { position: absolute; inset: 0; }
+  * { box-sizing: border-box; }
+</style>
+
+<!-- Audio narration files (inlined by bundler) -->
+<meta name="ext-resource-dependency" content="narration-audio/01.mp3" data-resource-id="narr_01" />
+<meta name="ext-resource-dependency" content="narration-audio/02.mp3" data-resource-id="narr_02" />
+<meta name="ext-resource-dependency" content="narration-audio/03.mp3" data-resource-id="narr_03" />
+<meta name="ext-resource-dependency" content="narration-audio/04.mp3" data-resource-id="narr_04" />
+<meta name="ext-resource-dependency" content="narration-audio/05.mp3" data-resource-id="narr_05" />
+<meta name="ext-resource-dependency" content="narration-audio/06.mp3" data-resource-id="narr_06" />
+<meta name="ext-resource-dependency" content="narration-audio/07.mp3" data-resource-id="narr_07" />
+<meta name="ext-resource-dependency" content="narration-audio/08.mp3" data-resource-id="narr_08" />
+<meta name="ext-resource-dependency" content="narration-audio/09.mp3" data-resource-id="narr_09" />
+<meta name="ext-resource-dependency" content="narration-audio/10.mp3" data-resource-id="narr_10" />
+<meta name="ext-resource-dependency" content="narration-audio/11.mp3" data-resource-id="narr_11" />
+<meta name="ext-resource-dependency" content="narration-audio/12.mp3" data-resource-id="narr_12" />
+<meta name="ext-resource-dependency" content="narration-audio/13.mp3" data-resource-id="narr_13" />
+<meta name="ext-resource-dependency" content="narration-audio/14.mp3" data-resource-id="narr_14" />
+<meta name="ext-resource-dependency" content="narration-audio/15.mp3" data-resource-id="narr_15" />
+<meta name="ext-resource-dependency" content="narration-audio/16.mp3" data-resource-id="narr_16" />
+<meta name="ext-resource-dependency" content="narration-audio/17.mp3" data-resource-id="narr_17" />
+<meta name="ext-resource-dependency" content="narration-audio/18.mp3" data-resource-id="narr_18" />
+<meta name="ext-resource-dependency" content="narration-audio/19.mp3" data-resource-id="narr_19" />
+<meta name="ext-resource-dependency" content="narration-audio/20.mp3" data-resource-id="narr_20" />
+<meta name="ext-resource-dependency" content="narration-audio/21.mp3" data-resource-id="narr_21" />
+<meta name="ext-resource-dependency" content="narration-audio/22.mp3" data-resource-id="narr_22" />
+<meta name="ext-resource-dependency" content="narration-audio/23.mp3" data-resource-id="narr_23" />
+<meta name="ext-resource-dependency" content="narration-audio/24.mp3" data-resource-id="narr_24" />
+<meta name="ext-resource-dependency" content="narration-audio/25.mp3" data-resource-id="narr_25" />
+<meta name="ext-resource-dependency" content="narration-audio/26.mp3" data-resource-id="narr_26" />
+<meta name="ext-resource-dependency" content="narration-audio/27.mp3" data-resource-id="narr_27" />
+<meta name="ext-resource-dependency" content="narration-audio/28.mp3" data-resource-id="narr_28" />
+<meta name="ext-resource-dependency" content="narration-audio/29.mp3" data-resource-id="narr_29" />
+<meta name="ext-resource-dependency" content="narration-audio/30.mp3" data-resource-id="narr_30" />
+<meta name="ext-resource-dependency" content="narration-audio/31.mp3" data-resource-id="narr_31" />
+<meta name="ext-resource-dependency" content="narration-audio/32.mp3" data-resource-id="narr_32" />
+<meta name="ext-resource-dependency" content="narration-audio/33.mp3" data-resource-id="narr_33" />
+<meta name="ext-resource-dependency" content="narration-audio/34.mp3" data-resource-id="narr_34" />
+<meta name="ext-resource-dependency" content="narration-audio/35.mp3" data-resource-id="narr_35" />
+<meta name="ext-resource-dependency" content="narration-audio/36.mp3" data-resource-id="narr_36" />
+<meta name="ext-resource-dependency" content="narration-audio/37.mp3" data-resource-id="narr_37" />
+<meta name="ext-resource-dependency" content="narration-audio/38.mp3" data-resource-id="narr_38" />
+<meta name="ext-resource-dependency" content="narration-audio/39.mp3" data-resource-id="narr_39" />
+<meta name="ext-resource-dependency" content="narration-audio/40.mp3" data-resource-id="narr_40" />
+<meta name="ext-resource-dependency" content="narration-audio/41.mp3" data-resource-id="narr_41" />
+<meta name="ext-resource-dependency" content="narration-audio/42.mp3" data-resource-id="narr_42" />
+
+</head>
+<body>
+<div id="root"></div>
+
+<template id="__bundler_thumbnail" data-bg-color="#FBF6EB">
+  <svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="800" fill="#FBF6EB"/>
+    <!-- House silhouette -->
+    <g transform="translate(600 400)">
+      <path d="M -180 60 L -180 -60 L 0 -200 L 180 -60 L 180 60 Z" fill="#2C5F7F"/>
+      <rect x="-40" y="-40" width="80" height="100" fill="#FAF4E6"/>
+      <line x1="0" y1="-40" x2="0" y2="60" stroke="#2C5F7F" stroke-width="6"/>
+      <line x1="-40" y1="10" x2="40" y2="10" stroke="#2C5F7F" stroke-width="6"/>
+      <!-- Heart wrap -->
+      <path d="M 0 80 C -160 -80 -260 80 -100 200 C 0 280 100 220 100 220 C 260 80 160 -80 0 80 Z"
+        fill="none" stroke="#4A86A8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"
+        opacity="0.85"/>
+    </g>
+    <text x="600" y="700" font-family="Georgia, serif" font-size="56" font-weight="600" fill="#1F2D3D" text-anchor="middle">NH Care Center</text>
+    <text x="600" y="750" font-family="Helvetica, sans-serif" font-size="24" letter-spacing="6" fill="#4A86A8" text-anchor="middle">NEW EMPLOYEE ORIENTATION</text>
+  </svg>
+</template>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="animations.jsx"></script>
+<script type="text/babel" src="illustrations.jsx"></script>
+<script type="text/babel" src="scenes.jsx"></script>
+<script type="text/babel" src="scenes-extra.jsx"></script>
+<script type="text/babel" src="narration.jsx"></script>
+<script type="text/babel" src="shell.jsx"></script>
+<script type="text/babel" src="tweaks-panel.jsx"></script>
+
+<script type="text/babel">
+// ── TIMELINE ──────────────────────────────────────────────────
+// Each scene now has narration that drives its duration.
+// Names MUST match the keys in NARRATION (in narration.jsx).
+const SCENES = [
+  { name: 'Cold Open',         dur: 3,   Comp: Scene_ColdOpen },
+  { name: 'Welcome',           dur: 14,  Comp: Scene_Welcome },
+  { name: 'Who We Are',        dur: 16,  Comp: Scene_WhoWeAre },
+  { name: 'Mission',           dur: 11,   Comp: Scene_Mission },
+
+  // Chapter 1: Patient-Centered Care
+  { name: 'Ch.1 Patient-Centered Care', dur: 5,
+    chapter: { num: 'One', title: 'Patient-Centered Care', subtitle: 'Why we exist — and the rights every client carries.', color: '#2C5F7F' } },
+  { name: 'Two Service Tracks', dur: 29, Comp: Scene_TwoTracks },
+  { name: 'The 14 Rights',      dur: 34, Comp: Scene_Rights },
+  { name: 'Freedom from Abuse', dur: 24, Comp: Scene_FreedomFromAbuse },
+
+  // Chapter 2: Privacy & HIPAA
+  { name: 'Ch.2 Privacy & HIPAA', dur: 5,
+    chapter: { num: 'Two', title: 'Privacy is the work.', subtitle: 'HIPAA, PHI, and the records that follow every patient.', color: '#4A86A8' } },
+  { name: 'HIPAA Uses',         dur: 21, Comp: Scene_HIPAAUses },
+  { name: 'Sensitive Info',     dur: 26, Comp: Scene_SensitiveInfo },
+
+  // Chapter 3: Safety & Infection Control
+  { name: 'Ch.3 Safety',        dur: 5,
+    chapter: { num: 'Three', title: 'Safety in every home.', subtitle: 'Infection control, PPE, and what to do when things go wrong.', color: '#9CAE8C' } },
+  { name: 'Hand Hygiene',       dur: 24, Comp: Scene_HandHygiene },
+  { name: 'PPE',                dur: 24, Comp: Scene_PPE },
+  { name: 'Precautions',        dur: 24, Comp: Scene_Precautions },
+  { name: 'Bag Technique',      dur: 20, Comp: Scene_BagTechnique },
+  { name: 'Sharps & Needlesticks', dur: 26, Comp: Scene_Sharps },
+  { name: 'Cleaning & Waste',   dur: 28, Comp: Scene_CleaningWaste },
+  { name: 'Firearms',           dur: 27, Comp: Scene_Firearms },
+
+  // Chapter 4: The Work
+  { name: 'Ch.4 The Work',      dur: 4,
+    chapter: { num: 'Four', title: 'How the care happens.', subtitle: 'Admissions, the Plan of Care, delegation, and documentation.', color: '#E08A6E' } },
+  { name: 'Personal Care Detail', dur: 19, Comp: Scene_PersonalCareDetail },
+  { name: 'Skilled Nursing Detail', dur: 23, Comp: Scene_SkilledNursingDetail },
+  { name: 'Onboarding',         dur: 21, Comp: Scene_Onboarding },
+  { name: 'Plan of Care',       dur: 25, Comp: Scene_PlanOfCare },
+  { name: 'Delegation',         dur: 25, Comp: Scene_Delegation },
+  { name: 'Documentation',      dur: 22, Comp: Scene_Documentation },
+  { name: 'Advance Directives', dur: 25, Comp: Scene_AdvanceDirectives },
+  { name: 'Controlled Substances', dur: 28, Comp: Scene_Controlled },
+
+  // Chapter 5: People & Quality
+  { name: 'Ch.5 People & Quality', dur: 5,
+    chapter: { num: 'Five', title: 'People and quality.', subtitle: 'Training, reporting, emergencies, records, and continuous improvement.', color: '#2C5F7F' } },
+  { name: 'Governance',         dur: 25, Comp: Scene_Governance },
+  { name: 'Personnel',          dur: 22, Comp: Scene_Personnel },
+  { name: 'Training',           dur: 30, Comp: Scene_Training },
+  { name: 'Dementia',           dur: 29, Comp: Scene_Dementia },
+  { name: 'Reporting',          dur: 28, Comp: Scene_Reporting },
+  { name: 'Reportable to DHHS', dur: 26, Comp: Scene_ReportableDHHS },
+  { name: 'Grievance',          dur: 34, Comp: Scene_Grievance },
+  { name: 'Discharge',          dur: 27, Comp: Scene_Discharge },
+  { name: 'Emergency Prep',     dur: 25, Comp: Scene_Emergency },
+  { name: 'Records',            dur: 26, Comp: Scene_Records },
+  { name: 'Quality Assurance',  dur: 20, Comp: Scene_QA },
+
+  { name: 'Recap',              dur: 11, Comp: Scene_Recap },
+  { name: 'Acknowledgment',     dur: 60, Comp: Scene_Acknowledgment },
+];
+
+let _t = 0;
+const SCENE_TIMELINE = SCENES.map(s => {
+  const start = _t;
+  _t += s.dur;
+  return { ...s, start, end: start + s.dur };
+});
+const TOTAL_DURATION = _t;
+
+// ── Tweaks defaults (persisted via __edit_mode_set_keys) ──
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+  "narrationOn": true,
+  "captionsOn": true,
+  "volume": 1
+}/*EDITMODE-END*/;
+
+// ── Render the orientation ──
+function Orientation({ tweaks }) {
+  const time = useTime();
+  // Update screen-label per second for comments
+  React.useEffect(() => {
+    const el = document.getElementById('orientation-root');
+    if (el) {
+      const t = Math.floor(time);
+      const m = Math.floor(t / 60);
+      const s = t % 60;
+      el.setAttribute('data-screen-label', `t=${m}:${String(s).padStart(2,'0')}`);
+    }
+  }, [Math.floor(time)]);
+
+  return (
+    <div id="orientation-root" style={{ position: 'absolute', inset: 0 }} data-screen-label="t=0:00">
+      {SCENE_TIMELINE.map((sc, i) => (
+        <Sprite key={i} start={sc.start} end={sc.end}>
+          {sc.chapter ? (
+            <ChapterCardV2
+              chapterNum={sc.chapter.num}
+              title={sc.chapter.title}
+              subtitle={sc.chapter.subtitle}
+              color={sc.chapter.color}
+            />
+          ) : (
+            <sc.Comp />
+          )}
+        </Sprite>
+      ))}
+
+      <NowPlaying timeline={SCENE_TIMELINE} />
+      <ChapterRibbon timeline={SCENE_TIMELINE} totalDuration={TOTAL_DURATION} />
+      <CompletionPulse totalDuration={TOTAL_DURATION} />
+      <KeyboardHelp />
+
+      {/* Narration + captions layer */}
+      <NarrationLayer
+        enabled={tweaks.narrationOn}
+        captionsOn={tweaks.captionsOn}
+        volume={tweaks.volume}
+        sceneTimeline={SCENE_TIMELINE}
+      />
+    </div>
+  );
+}
+
+function SceneTicker({ timeline }) {
+  const time = useTime();
+  const cur = timeline.find(s => time >= s.start && time < s.end);
+  if (!cur) return null;
+  const idx = timeline.indexOf(cur);
+  return (
+    <div style={{
+      position: 'absolute', top: 30, right: 40,
+      padding: '12px 22px',
+      background: 'rgba(31, 45, 61, 0.85)', color: '#FAF4E6',
+      fontFamily: 'Nunito, sans-serif', fontSize: 16,
+      letterSpacing: '0.18em', textTransform: 'uppercase',
+      borderRadius: 30, fontWeight: 700,
+      backdropFilter: 'blur(6px)',
+      border: '2px solid rgba(250,244,230,0.2)',
+    }}>
+      <span style={{ opacity: 0.6, marginRight: 10 }}>{idx + 1}/{timeline.length}</span>
+      {cur.name}
+    </div>
+  );
+}
+
+// ── Tweaks panel (uses tweaks-panel.jsx helpers) ──
+function TweaksControls({ tweaks, setTweak }) {
+  return (
+    <TweaksPanel title="Tweaks">
+      <TweakSection label="Narration">
+        <TweakToggle label="Voice narration" value={tweaks.narrationOn} onChange={v => setTweak('narrationOn', v)} />
+        <TweakToggle label="Captions" value={tweaks.captionsOn} onChange={v => setTweak('captionsOn', v)} />
+        <TweakSlider label="Volume" min={0} max={1} step={0.05} value={tweaks.volume} onChange={v => setTweak('volume', v)} />
+      </TweakSection>
+      <TweakSection label="Jump to chapter">
+        {SCENE_TIMELINE.filter(s => s.chapter || s.name === 'Cold Open' || s.name === 'Recap' || s.name === 'Acknowledgment').map(s => (
+          <TweakButton key={s.name} label={s.chapter ? `📖 ${s.chapter.title}` : `▸ ${s.name}`}
+            onClick={() => {
+              window.dispatchEvent(new CustomEvent('stage:seek', { detail: { time: s.start + 0.05 } }));
+            }}
+          />
+        ))}
+      </TweakSection>
+    </TweaksPanel>
+  );
+}
+
+function App() {
+  const [tweaks, setTweak] = useTweaks(TWEAK_DEFAULTS);
+
+  return (
+    <>
+      <Stage
+        width={1920}
+        height={1080}
+        duration={TOTAL_DURATION}
+        background="#FBF6EB"
+        fps={60}
+        loop={false}
+        autoplay={false}
+        persistKey="nhcc-orientation-v2"
+      >
+        <Orientation tweaks={tweaks} />
+      </Stage>
+      <TweaksControls tweaks={tweaks} setTweak={setTweak} />
+    </>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+</script>
+</body>
+</html>

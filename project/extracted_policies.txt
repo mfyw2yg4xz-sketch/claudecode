@@ -1,0 +1,1926 @@
+
+
+[P]
+[P]
+[P]
+[P]
+[P]
+[P]
+[P]
+[P]143 North Main St, STE 202A
+[P]
+[P]Concord, NH 03301
+[P]
+[P]Phone: (603) 224-0036 or (603) 369-4880 | Fax: (603) 369-4880                                                   Email: info@nhcarecenter.com
+[P]
+[P]Policies & Procedures
+[P]
+[P]Section: Clinical & Administrative Operations
+[P]
+[P]Service Location: State of New Hampshire (In-Home)
+[P]
+[P]Authority: NH Code of Admin. Rules He-P 809; NH RSA 151; RSA 151:21-b
+[P]
+[P]
+[P]
+[P]
+[P]
+[P]Original Draft: 02/17/2026
+[P]
+[P]Revised: 03/09/2026 (Compliance Update)
+[P]
+[P]Next Scheduled Review: 03/09/2028 (per He-P 809.14(d) — every 2 years)
+[P]
+[P]
+
+[P]
+[P]
+[P]Table of Contents
+[P]
+[P]
+[P]	TOC \h \o "1-3"Table of Contents	 PAGEREF _Toc224064664 \h 1
+[P]
+[P]
+[P]	PART 1: GOVERNANCE & SCOPE OF SERVICES	 PAGEREF _Toc224064665 \h 1
+[P]
+[P]
+[P]	1.0 PURPOSE	 PAGEREF _Toc224064666 \h 1
+[P]
+[P]
+[P]	2.0 NON-DISCRIMINATION STATEMENT	 PAGEREF _Toc224064667 \h 1
+[P]
+[P]
+[P]	3.0 POLICY & PROCEDURE REVIEW CYCLE	 PAGEREF _Toc224064668 \h 1
+[P]
+[P]
+[P]	4.0 POSTING REQUIREMENTS AT LICENSED PREMISES	 PAGEREF _Toc224064669 \h 1
+[P]
+[P]
+[P]	5.0 FIREARMS SAFETY POLICY	 PAGEREF _Toc224064670 \h 1
+[P]
+[P]
+[P]	6.0 PROHIBITION ON FALSIFICATION OF RECORDS	 PAGEREF _Toc224064671 \h 1
+[P]
+[P]
+[P]	7.0 CONTRACTED AND ARRANGED SERVICES	 PAGEREF _Toc224064672 \h 1
+[P]
+[P]
+[P]	8.0 PERSONAL CARE & SUPPORT SERVICES (NON-MEDICAL)	 PAGEREF _Toc224064673 \h 1
+[P]
+[P]
+[P]	8.1 Supervision of Support Staff (He-P 809.17 Compliance)	 PAGEREF _Toc224064674 \h 1
+[P]
+[P]
+[P]	8.2 In-Home Personal Hygiene & Grooming	 PAGEREF _Toc224064675 \h 1
+[P]
+[P]
+[P]	8.3 Household Support (Homemaker Services)	 PAGEREF _Toc224064676 \h 1
+[P]
+[P]
+[P]	8.4 Companionship	 PAGEREF _Toc224064677 \h 1
+[P]
+[P]
+[P]	8.5 Mobility Support	 PAGEREF _Toc224064678 \h 1
+[P]
+[P]
+[P]	8.6 In-Home Respite Care	 PAGEREF _Toc224064679 \h 1
+[P]
+[P]
+[P]	8.7 Delegation of Nursing Tasks and Medication Administration	 PAGEREF _Toc224064680 \h 1
+[P]
+[P]
+[P]	9.0 SKILLED NURSING SERVICES (RN/LPN)	 PAGEREF _Toc224064681 \h 1
+[P]
+[P]
+[P]	9.1 Nursing Assessments & Recertification	 PAGEREF _Toc224064682 \h 1
+[P]
+[P]
+[P]	9.2 Medication Management (He-P 809.16)	 PAGEREF _Toc224064683 \h 1
+[P]
+[P]
+[P]	9.3 Advanced Clinical Procedures	 PAGEREF _Toc224064684 \h 1
+[P]
+[P]
+[P]	9.4 Tube Feeding Management (Enteral Nutrition)	 PAGEREF _Toc224064685 \h 1
+[P]
+[P]
+[P]	9.5 General Health & Chronic Disease Monitoring	 PAGEREF _Toc224064686 \h 1
+[P]
+[P]
+[P]	PART 2: PERSONNEL QUALIFICATIONS & SCREENING	 PAGEREF _Toc224064687 \h 1
+[P]
+[P]
+[P]	1.0 ADMINISTRATOR QUALIFICATIONS	 PAGEREF _Toc224064688 \h 1
+[P]
+[P]
+[P]	2.0 DIRECTOR OF PATIENT SERVICES (CLINICAL DIRECTOR)	 PAGEREF _Toc224064689 \h 1
+[P]
+[P]
+[P]	3.0 BACKGROUND CHECKS (He-P 809.17)	 PAGEREF _Toc224064690 \h 1
+[P]
+[P]
+[P]	4.0 HEALTH SCREENING (He-P 809.17(h))	 PAGEREF _Toc224064691 \h 1
+[P]
+[P]
+[P]	5.0 TRAINING & COMPETENCY	 PAGEREF _Toc224064692 \h 1
+[P]
+[P]
+[P]	5.1 General Orientation	 PAGEREF _Toc224064693 \h 1
+[P]
+[P]
+[P]	5.2 Dementia Training (RSA 151:47-51)	 PAGEREF _Toc224064694 \h 1
+[P]
+[P]
+[P]	5.3 Competency Evaluation	 PAGEREF _Toc224064695 \h 1
+[P]
+[P]
+[P]	5.4 Annual In-Service Education (He-P 809.17(h)(5))	 PAGEREF _Toc224064696 \h 1
+[P]
+[P]
+[P]	PART 3: PATIENT RIGHTS (RSA 151:21-b)	 PAGEREF _Toc224064697 \h 1
+[P]
+[P]
+[P]	1.0 POLICY	 PAGEREF _Toc224064698 \h 1
+[P]
+[P]
+[P]	2.0 DETAILED RIGHTS	 PAGEREF _Toc224064699 \h 1
+[P]
+[P]
+[P]	PART 4: GRIEVANCE PROCEDURE (RSA 151:20)	 PAGEREF _Toc224064700 \h 1
+[P]
+[P]
+[P]	1.0 FILING A COMPLAINT WITH THE AGENCY	 PAGEREF _Toc224064701 \h 1
+[P]
+[P]
+[P]	2.0 FILING A COMPLAINT WITH THE STATE	 PAGEREF _Toc224064702 \h 1
+[P]
+[P]
+[P]	PART 5: ADMISSION CRITERIA & ONBOARDING PROCEDURES	 PAGEREF _Toc224064703 \h 1
+[P]
+[P]
+[P]	1.0 ADMISSION CRITERIA	 PAGEREF _Toc224064704 \h 1
+[P]
+[P]
+[P]	1.1 Service Determination (Intake Triage)	 PAGEREF _Toc224064705 \h 1
+[P]
+[P]
+[P]	2.0 PROCEDURE: SKILLED NURSING ONBOARDING WORKFLOW	 PAGEREF _Toc224064706 \h 1
+[P]
+[P]
+[P]	3.0 PROCEDURE: NON-MEDICAL (PERSONAL CARE) ONBOARDING WORKFLOW	 PAGEREF _Toc224064707 \h 1
+[P]
+[P]
+[P]	4.0 DISCHARGE, TRANSFER & REFERRAL POLICY	 PAGEREF _Toc224064708 \h 1
+[P]
+[P]
+[P]	4.1 Criteria for Discharge (RSA 151:21(V))	 PAGEREF _Toc224064709 \h 1
+[P]
+[P]
+[P]	4.2 Notice Requirements (RSA 151:26-a)	 PAGEREF _Toc224064710 \h 1
+[P]
+[P]
+[P]	4.3 Right to Dispute (RSA 151:26-a)	 PAGEREF _Toc224064711 \h 1
+[P]
+[P]
+[P]	4.4 Discharge Planning	 PAGEREF _Toc224064712 \h 1
+[P]
+[P]
+[P]	PART 6: THE PLAN OF CARE (POC)	 PAGEREF _Toc224064713 \h 1
+[P]
+[P]
+[P]	1.0 DEVELOPMENT & REQUIREMENTS (He-P 809.15(o)-(q))	 PAGEREF _Toc224064714 \h 1
+[P]
+[P]
+[P]	1.1 Skilled Nursing POC Requirements	 PAGEREF _Toc224064715 \h 1
+[P]
+[P]
+[P]	1.2 Physician Signature	 PAGEREF _Toc224064716 \h 1
+[P]
+[P]
+[P]	1.3 Non-Medical (Aide) POC Requirements	 PAGEREF _Toc224064717 \h 1
+[P]
+[P]
+[P]	PART 7: INFECTION CONTROL & SAFETY (He-P 809.19)	 PAGEREF _Toc224064718 \h 1
+[P]
+[P]
+[P]	1.0 STANDARD PRECAUTIONS (UNIVERSAL PRECAUTIONS)	 PAGEREF _Toc224064719 \h 1
+[P]
+[P]
+[P]	1.1 Hand Hygiene	 PAGEREF _Toc224064720 \h 1
+[P]
+[P]
+[P]	1.2 Personal Protective Equipment (PPE)	 PAGEREF _Toc224064721 \h 1
+[P]
+[P]
+[P]	2.0 TRANSMISSION-BASED PRECAUTIONS	 PAGEREF _Toc224064722 \h 1
+[P]
+[P]
+[P]	2.1 Contact Precautions	 PAGEREF _Toc224064723 \h 1
+[P]
+[P]
+[P]	2.2 Droplet Precautions	 PAGEREF _Toc224064724 \h 1
+[P]
+[P]
+[P]	2.3 Airborne Precautions	 PAGEREF _Toc224064725 \h 1
+[P]
+[P]
+[P]	3.0 BAG TECHNIQUE	 PAGEREF _Toc224064726 \h 1
+[P]
+[P]
+[P]	4.0 CLEANING & DISINFECTION OF PATIENT-CARE EQUIPMENT	 PAGEREF _Toc224064727 \h 1
+[P]
+[P]
+[P]	5.0 COMMUNICABLE DISEASE & EMPLOYEE HEALTH	 PAGEREF _Toc224064728 \h 1
+[P]
+[P]
+[P]	5.1 Reporting Requirements (He-P 809.19)	 PAGEREF _Toc224064729 \h 1
+[P]
+[P]
+[P]	5.2 Staff Illness	 PAGEREF _Toc224064730 \h 1
+[P]
+[P]
+[P]	5.3 Post-Exposure Plan (Needlesticks)	 PAGEREF _Toc224064731 \h 1
+[P]
+[P]
+[P]	6.0 BIOMEDICAL WASTE MANAGEMENT	 PAGEREF _Toc224064732 \h 1
+[P]
+[P]
+[P]	PART 8: EMERGENCY PREPAREDNESS (He-P 809.20)	 PAGEREF _Toc224064733 \h 1
+[P]
+[P]
+[P]	1.0 COMPREHENSIVE EMERGENCY MANAGEMENT PLAN	 PAGEREF _Toc224064734 \h 1
+[P]
+[P]
+[P]	1.1 Hazard Vulnerability Analysis (HVA)	 PAGEREF _Toc224064735 \h 1
+[P]
+[P]
+[P]	1.2 Patient Triage System	 PAGEREF _Toc224064736 \h 1
+[P]
+[P]
+[P]	1.3 Notification of Local EMS and Emergency Management	 PAGEREF _Toc224064737 \h 1
+[P]
+[P]
+[P]	2.0 DISASTER RESPONSE PROTOCOLS	 PAGEREF _Toc224064738 \h 1
+[P]
+[P]
+[P]	2.1 Activation & Command Center	 PAGEREF _Toc224064739 \h 1
+[P]
+[P]
+[P]	2.2 Interruption of Services	 PAGEREF _Toc224064740 \h 1
+[P]
+[P]
+[P]	2.3 Recovery Phase	 PAGEREF _Toc224064741 \h 1
+[P]
+[P]
+[P]	3.0 TRAINING & DRILLS	 PAGEREF _Toc224064742 \h 1
+[P]
+[P]
+[P]	PART 9: QUALITY ASSURANCE (He-P 809.18)	 PAGEREF _Toc224064743 \h 1
+[P]
+[P]
+[P]	1.0 QUALITY ASSESSMENT & PERFORMANCE IMPROVEMENT (QAPI)	 PAGEREF _Toc224064744 \h 1
+[P]
+[P]
+[P]	1.1 Quality Assurance Committee	 PAGEREF _Toc224064745 \h 1
+[P]
+[P]
+[P]	1.2 Clinical Record Review (Chart Audits)	 PAGEREF _Toc224064746 \h 1
+[P]
+[P]
+[P]	1.3 Quality Indicators & Adverse Events	 PAGEREF _Toc224064747 \h 1
+[P]
+[P]
+[P]	1.4 Patient Satisfaction Surveys	 PAGEREF _Toc224064748 \h 1
+[P]
+[P]
+[P]	1.5 Annual Agency Evaluation	 PAGEREF _Toc224064749 \h 1
+[P]
+[P]
+[P]	PART 10: CLINICAL RECORDS (He-P 809.14(q)-(s); He-P 809.15)	 PAGEREF _Toc224064750 \h 1
+[P]
+[P]
+[P]	1.0 RECORD CONTENT & ORGANIZATION	 PAGEREF _Toc224064751 \h 1
+[P]
+[P]
+[P]	1.1 Required Documents	 PAGEREF _Toc224064752 \h 1
+[P]
+[P]
+[P]	1.2 Timeliness of Documentation	 PAGEREF _Toc224064753 \h 1
+[P]
+[P]
+[P]	2.0 AUTHENTICATION & INTEGRITY	 PAGEREF _Toc224064754 \h 1
+[P]
+[P]
+[P]	2.1 Signatures	 PAGEREF _Toc224064755 \h 1
+[P]
+[P]
+[P]	2.2 Correction of Errors	 PAGEREF _Toc224064756 \h 1
+[P]
+[P]
+[P]	2.3 Late Entries	 PAGEREF _Toc224064757 \h 1
+[P]
+[P]
+[P]	3.0 CONFIDENTIALITY & SECURITY	 PAGEREF _Toc224064758 \h 1
+[P]
+[P]
+[P]	3.1 HIPAA Compliance	 PAGEREF _Toc224064759 \h 1
+[P]
+[P]
+[P]	3.2 Physical & Electronic Security	 PAGEREF _Toc224064760 \h 1
+[P]
+[P]
+[P]	3.3 Release of Information (ROI)	 PAGEREF _Toc224064761 \h 1
+[P]
+[P]
+[P]	4.0 RETENTION POLICY	 PAGEREF _Toc224064762 \h 1
+[P]
+[P]
+[P]	5.0 AGENCY CLOSURE PROTOCOL (He-P 809.14(p))	 PAGEREF _Toc224064763 \h 1
+[P]
+[P]
+[P]	PART 11: REPORTABLE INCIDENTS TO DHHS	 PAGEREF _Toc224064764 \h 1
+[P]
+[P]
+[P]	1.0 POLICY	 PAGEREF _Toc224064765 \h 1
+[P]
+[P]
+[P]	2.0 REPORTING PROCEDURE	 PAGEREF _Toc224064766 \h 1
+[P]
+[P]
+[P]	PART 12: ADVANCE DIRECTIVES POLICY	 PAGEREF _Toc224064767 \h 1
+[P]
+[P]
+[P]	1.0 POLICY	 PAGEREF _Toc224064768 \h 1
+[P]
+[P]
+[P]	2.0 PROCEDURE	 PAGEREF _Toc224064769 \h 1
+[P]
+[P]
+[P]	PART 13: CONTROLLED SUBSTANCE DIVERSION PREVENTION	 PAGEREF _Toc224064770 \h 1
+[P]
+[P]
+[P]	1.0 POLICY	 PAGEREF _Toc224064771 \h 1
+[P]
+[P]
+[P]	2.0 PROCEDURES	 PAGEREF _Toc224064772 \h 1
+[P]
+[P]
+[P]	PART 14: MANDATORY REPORTING OF ABUSE, NEGLECT, AND EXPLOITATION	 PAGEREF _Toc224064773 \h 1
+[P]
+[P]
+[P]	1.0 POLICY STATEMENT (RSA 161-F & RSA 169-C)	 PAGEREF _Toc224064774 \h 1
+[P]
+[P]
+[P]	2.0 STAFF TRAINING CURRICULUM	 PAGEREF _Toc224064775 \h 1
+[P]
+[P]
+[P]	3.0 PROCEDURE FOR REPORTING A SUSPICION	 PAGEREF _Toc224064776 \h 1
+[P]
+[P]
+[P]	4.0 PROTECTION FROM RETALIATION	 PAGEREF _Toc224064777 \h 1
+[P]
+[P]
+[P]	REVISION HISTORY	 PAGEREF _Toc224064778 \h 1
+[P]
+[P]
+[P]	SIGNATURES	 PAGEREF _Toc224064779 \h 1
+[P]
+[P]
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 1: GOVERNANCE & SCOPE OF SERVICES
+[P]
+[P]
+[P]1.0 PURPOSE
+[P]
+[P]The purpose of this policy is to define the operational standards, scope of services, and patient care protocols for NH Care Center, LLC. These policies are designed to ensure compliance with the New Hampshire Code of Administrative Rules, Part He-P 809 (Home Health Care Providers) and RSA 151, ensuring the highest quality of care is delivered to patients in their place of residence.
+[P]
+[P]Terminology Note: In this manual, the terms “patient” and “client” are used interchangeably and carry the same meaning as defined in He-P 809.03(an): any person admitted to or receiving care or services from a Home Health Care Provider licensed under RSA 151 and He-P 809.
+[P]
+[P]
+[P]2.0 NON-DISCRIMINATION STATEMENT
+[P]
+[P]In accordance with RSA 151:21, NH Care Center shall not deny admission, care, or services based on race, color, national origin, religion, sex, gender identity, sexual orientation, disability, age, or source of payment.
+[P]
+[P]
+[P]3.0 POLICY & PROCEDURE REVIEW CYCLE
+[P]
+[P]In compliance with He-P 809.14(d), all policies and procedures contained in this manual shall be reviewed at least every two (2) years. Reviews shall be documented with the date of review, the name and title of the reviewer, a summary of any changes made, and the effective date of the revised policy. A Revision History Log shall be maintained as an appendix to this manual.
+[P]
+[P]
+[P]4.0 POSTING REQUIREMENTS AT LICENSED PREMISES
+[P]
+[P]In accordance with RSA 151:29 and He-P 809.14, NH Care Center shall post the following documents in a conspicuous public area at the licensed premises (143 North Main St, STE 202 A, Concord, NH 03301):
+[P]
+[P]
+[P]The current license certificate issued in accordance with RSA 151:2.
+[P]
+[P]
+[P]All inspection reports issued for the previous 12 months.
+[P]
+[P]
+[P]A copy of the Home Care Clients’ Bill of Rights as specified by RSA 151:21-b.
+[P]
+[P]
+[P]A copy of the agency’s complaint procedure, including a statement that complaints may be submitted in writing to: NH DHHS, Health Facilities Administration, 129 Pleasant Street, Concord, NH 03301, or by calling 1-800-852-3345 (Ext. 9039).
+[P]
+[P]
+[P]A copy of the agency’s policies and procedures relative to the implementation of patient rights and responsibilities.
+[P]
+[P]
+[P]The agency’s plan for fire safety, evacuation, and emergencies, identifying the location of and access to all fire exits.
+[P]
+[P]
+[P]5.0 FIREARMS SAFETY POLICY
+[P]
+[P]In compliance with He-P 809.14(b)(2), NH Care Center maintains this policy to ensure the safety of all persons present where firearms are permitted.
+[P]
+[P]
+[P]Licensed Premises: Firearms are not permitted in the agency’s office unless secured in a locked container inaccessible to visitors and staff during business hours.
+[P]
+[P]
+[P]Patient Homes: Staff entering a patient’s home where firearms are present shall ensure firearms are stored safely and not in the immediate care area. If a firearm is unsecured and poses a safety risk, the caregiver shall pause services, move to a safe location, and notify the Administrator immediately.
+[P]
+[P]
+[P]Documentation: The presence of firearms in a patient’s home shall be noted in the Home Environment Safety Assessment and communicated to all staff assigned to that patient.
+[P]
+[P]
+[P]Training: All staff shall receive orientation on this policy during initial onboarding.
+[P]
+[P]
+[P]6.0 PROHIBITION ON FALSIFICATION OF RECORDS
+[P]
+[P]In compliance with He-P 809.14(f), no employee, contractor, or agent of NH Care Center, LLC shall falsify any documentation or provide false or misleading information to the New Hampshire Department of Health and Human Services (DHHS) or any other regulatory authority. Violations of this policy shall result in immediate disciplinary action up to and including termination and may result in enforcement action by the department.
+[P]
+[P]
+[P]7.0 CONTRACTED AND ARRANGED SERVICES
+[P]
+[P]In accordance with He-P 809.15(a)-(b), NH Care Center shall maintain written contractual agreements for all services provided by arrangement with other entities. Each contractual agreement shall:
+[P]
+[P]
+[P]Identify the specific care and services to be provided.
+[P]
+[P]
+[P]Specify the qualifications of the personnel providing the care and services.
+[P]
+[P]
+[P]Require that the HHCP must authorize the services prior to delivery.
+[P]
+[P]
+[P]Stipulate that NH Care Center retains professional responsibility for all care and services provided under the arrangement.
+[P]
+[P]
+[P]8.0 PERSONAL CARE & SUPPORT SERVICES (NON-MEDICAL)
+[P]
+[P]Provided by Home Health Aides (HHA), Personal Care Aides (PCA), or Licensed Nursing Assistants (LNA) under RN supervision.
+[P]
+[P]
+[P]8.1 Supervision of Support Staff (He-P 809.17 Compliance)
+[P]
+[P]
+[P]Skilled Cases: When a patient receives skilled nursing/therapy, an RN must make a supervisory visit to the home at least every 14 days to assess the aide’s performance.
+[P]
+[P]
+[P]Non-Skilled Cases: When a patient receives only personal care, an RN must make a supervisory visit at least every 60 days to ensure the Plan of Care is being followed.
+[P]
+[P]
+[P]8.2 In-Home Personal Hygiene & Grooming
+[P]
+[P]Definition: Assistance with Activities of Daily Living (ADLs) related to self-care performed in the patient’s home.
+[P]
+[P]Scope:
+[P]
+[P]
+[P]Bathing: Assistance with bed bath, sponge bath, tub, or shower.
+[P]
+[P]
+[P]Oral Hygiene: Brushing teeth and denture care.
+[P]
+[P]
+[P]Grooming: Hair care, shaving (electric razor only), and nail care (limited to filing/cleaning; no cutting for diabetic patients or those on blood thinners).
+[P]
+[P]
+[P]Dressing: Assistance with dressing and undressing.
+[P]
+[P]
+[P]Toileting: Assistance with perineal care, incontinence care (briefs/pads), and ostomy bag emptying (not changing the wafer/flange). Strictly Prohibited: Aides shall not perform digital stimulation or insert suppositories/enemas.
+[P]
+[P]
+[P]8.3 Household Support (Homemaker Services)
+[P]
+[P]Definition: Instrumental Activities of Daily Living (IADLs) aimed at maintaining a safe and clean living environment within the patient’s residence.
+[P]
+[P]
+[P]Light Housekeeping: Dusting, vacuuming main living areas, and cleaning the patient’s bathroom and kitchen.
+[P]
+[P]
+[P]Laundry: Washing, drying, and folding the patient’s personal clothing and bed linens.
+[P]
+[P]
+[P]Meal Services: Meal planning, preparation, and assistance with feeding (only if no swallowing difficulties/dysphagia are present).
+[P]
+[P]
+[P]Errands: Grocery shopping and errand running within the local community.
+[P]
+[P]
+[P]8.4 Companionship
+[P]
+[P]Definition: Emotional support and socialization to prevent isolation and ensure safety.
+[P]
+[P]
+[P]Socialization: Engaging in conversation, games, reading, or hobbies.
+[P]
+[P]
+[P]Escort: Accompanying patients to medical appointments or social outings.
+[P]
+[P]
+[P]Safety Supervision: General supervision to ensure safety (e.g., wandering prevention for patients with dementia/cognitive impairment).
+[P]
+[P]
+[P]8.5 Mobility Support
+[P]
+[P]Definition: Physical assistance to promote safe movement and prevent falls within the home.
+[P]
+[P]
+[P]Transfers: Assistance with transfers (bed to chair, chair to toilet) using appropriate techniques (e.g., gait belt). Note: Mechanical lifts (Hoyer) require specific staff training and documented competency.
+[P]
+[P]
+[P]Ambulation: Walking supervision and standby assistance.
+[P]
+[P]
+[P]Range of Motion: Passive or active Range of Motion (ROM) exercises only as prescribed by a therapist/physician and specifically delegated by the RN in the Plan of Care.
+[P]
+[P]
+[P]8.6 In-Home Respite Care
+[P]
+[P]Definition: Temporary short-term care provided to relieve the primary family caregiver. Includes a combination of any of the above services (hygiene, companionship, safety supervision) provided for a designated block of time specifically to allow the family caregiver rest.
+[P]
+[P]
+[P]8.7 Delegation of Nursing Tasks and Medication Administration
+[P]
+[P]In accordance with He-P 809.16 and the New Hampshire Nurse Practice Act (Board of Nursing rules), a Registered Nurse (RN) may delegate specific nursing tasks (such as medication administration or other specialized tasks not typically within the baseline scope of an LNA, HHA, or PCA) only if strict protocols are followed.
+[P]
+[P]
+[P]Documented Training: The delegating RN must provide specific, documented training to the unlicensed caregiver on how to perform the exact task for the specific patient. This training must include the purpose of the task, the steps involved, potential complications, and when to notify the RN.
+[P]
+[P]
+[P]Competency Evaluation: The RN must directly observe the caregiver performing the task safely and document this competency verification in the personnel/clinical record.
+[P]
+[P]
+[P]Specific Written Delegation: The delegated task must be explicitly detailed in the written Aide Plan of Care.
+[P]
+[P]Permissible Delegated Tasks (Examples):
+[P]
+[P]
+[P]Administration of routine oral medications from a pre-filled compliance aid (e.g., pillbox) set up by a nurse or pharmacist.
+[P]
+[P]
+[P]Assistance with the application of prescribed topical medications (creams/ointments) to intact skin.
+[P]
+[P]
+[P]Routine ostomy care (emptying the pouch).
+[P]
+[P]
+[P]Obtaining vital signs.
+[P]
+[P]Prohibited Tasks (Non-Delegable):
+[P]
+[P]
+[P]Tasks requiring nursing assessment, judgment, or complex clinical decision-making.
+[P]
+[P]
+[P]Administration of injectable medications (e.g., insulin), IV medications, or medications via feeding tube.
+[P]
+[P]
+[P]Sterile procedures, including sterile dressing changes.
+[P]
+[P]
+[P]Initial assessment or evaluation of a patient’s health status.
+[P]
+[P]
+[P]Creating or altering the Plan of Care.
+[P]
+[P]
+[P]RN Signature: The specific delegation, training record, and competency sign-off must be signed and dated by the delegating Registered Nurse.
+[P]
+[P]
+[P]Patient-Specific: Delegation is strictly specific to the individual patient and the individual caregiver. It cannot be transferred to another caregiver or applied to another patient without a new training and competency evaluation process.
+[P]
+[P]
+[P]9.0 SKILLED NURSING SERVICES (RN/LPN)
+[P]
+[P]Provided by licensed nurses in accordance with the NH Nurse Practice Act.
+[P]
+[P]
+[P]9.1 Nursing Assessments & Recertification
+[P]
+[P]
+[P]Initial Assessment: Must be completed by an RN within 48 hours of referral or on the physician-ordered Start of Care date.
+[P]
+[P]
+[P]Recertification: A comprehensive reassessment must be performed every 60 days to update the Plan of Care (POC) and verify continued medical necessity.
+[P]
+[P]
+[P]9.2 Medication Management (He-P 809.16)
+[P]
+[P]
+[P]Administration: Nurses may administer medications (IV, IM, SQ, Oral) only with a valid, signed physician’s order.
+[P]
+[P]
+[P]Medication Pours/Setup: Nurses may fill pillboxes for up to 14 days in advance, provided the storage container is labeled with the patient’s name and medication details.
+[P]
+[P]
+[P]Controlled Substances: Must be counted at every visit if administered by agency staff.
+[P]
+[P]
+[P]PRN Medications: Pro re nata (as needed) medications shall only be administered with a valid order that specifies the indication, dosage, frequency limit, and maximum daily dose. The nurse shall document the reason for administration, the time administered, and the patient’s response.
+[P]
+[P]
+[P]Over-the-Counter (OTC) Medications: OTC medications shall not be administered without a physician’s order or explicit inclusion in the Plan of Care. Any patient-initiated OTC use shall be documented and reported to the prescribing physician.
+[P]
+[P]
+[P]Medication Administration Documentation: Each medication administration event shall be documented in the clinical record, including: drug name, dose, route, time of administration, and the patient’s response or any adverse reactions.
+[P]
+[P]
+[P]9.3 Advanced Clinical Procedures
+[P]
+[P]
+[P]Wound Care: Staging, measurement, and dressing changes per specific orders.
+[P]
+[P]
+[P]IV Therapy: PICC/Midline care, port access, and infusion therapy (antibiotics, hydration, TPN).
+[P]
+[P]
+[P]Catheter Care: Insertion and maintenance of foley/suprapubic catheters.
+[P]
+[P]
+[P]9.4 Tube Feeding Management (Enteral Nutrition)
+[P]
+[P]Policy: Enteral nutrition shall be administered by a licensed nurse in accordance with a specific physician’s order regarding formula, rate, volume, and frequency.
+[P]
+[P]
+[P]Site Care: Cleaning, assessment, and dressing changes of Gastrostomy (PEG) or Jejunostomy (J-tube) sites to monitor for infection or skin breakdown.
+[P]
+[P]
+[P]Patency & Residuals: Verifying tube patency and checking gastric residual volumes (GRV) prior to feedings if ordered by the physician.
+[P]
+[P]
+[P]Administration: Delivery of bolus, intermittent, or continuous feedings via pump or gravity, and water flushes for hydration and medication delivery.
+[P]
+[P]
+[P]9.5 General Health & Chronic Disease Monitoring
+[P]
+[P]Policy: Skilled nurses shall provide observation, assessment, and teaching to manage chronic conditions and prevent exacerbations requiring hospitalization.
+[P]
+[P]
+[P]Vital Signs: Monitoring blood pressure, heart rate, respiratory rate, temperature, and oxygen saturation (SpO2).
+[P]
+[P]
+[P]Disease Management & Education: Instruction on self-management strategies for conditions including but not limited to Diabetes (foot care/insulin), Heart Failure (daily weights/edema check), and COPD (pursed-lip breathing/O2 safety).
+[P]
+[P]
+[P]Care Coordination: Prompt communication with the primary care provider regarding critical values or negative trends in the patient’s condition.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 2: PERSONNEL QUALIFICATIONS & SCREENING
+[P]
+[P]
+[P]1.0 ADMINISTRATOR QUALIFICATIONS
+[P]
+[P]NH Care Center shall employ an Administrator to oversee all aspects of the daily operations of the HHCP, in compliance with He-P 809.15(c).
+[P]
+[P]
+[P]Qualifications: The Administrator shall possess at least a bachelor’s degree in business or a health-related field, as required by He-P 809.15(d).
+[P]
+[P]
+[P]Alternate Administrator: The Administrator shall designate, in writing, an alternate administrator who shall assume the responsibilities of the Administrator in their absence.
+[P]
+[P]
+[P]Change of Administrator: Any change in administrator shall be reported to the NH DHHS with the new administrator’s resume, applicable licenses, and criminal records check results, as required by He-P 809.08.
+[P]
+[P]
+[P]2.0 DIRECTOR OF PATIENT SERVICES (CLINICAL DIRECTOR)
+[P]
+[P]NH Care Center shall employ a Director of Patient Services (also referred to as the Clinical Director or Director of Nursing) to oversee all clinical services, in compliance with He-P 809.15(e)-(f).
+[P]
+[P]
+[P]Qualifications: The Director of Patient Services shall be a Registered Nurse (RN) currently licensed in the State of New Hampshire with at least two (2) years of experience supervising personnel providing home health or related services, as required by He-P 809.15(f).
+[P]
+[P]
+[P]Responsibilities: The Director of Patient Services is responsible for the overall clinical direction of the agency, supervision of nursing staff, and ensuring the quality and appropriateness of patient care.
+[P]
+[P]
+[P]Alternate: A written designation of an alternate shall be maintained for periods of absence.
+[P]
+[P]
+[P]3.0 BACKGROUND CHECKS (He-P 809.17)
+[P]
+[P]Prior to making an offer of employment, NH Care Center shall conduct:
+[P]
+[P]
+[P]Criminal Record Check: Through the NH Department of Safety.
+[P]
+[P]
+[P]BEAS Registry Check: A check of the Bureau of Elderly and Adult Services (BEAS) state registry to ensure no history of abuse, neglect, or exploitation.
+[P]
+[P]Disqualification Criteria: No individual shall be employed who:
+[P]
+[P]
+[P]Is listed on the BEAS registry for a founded finding of abuse, neglect, or exploitation.
+[P]
+[P]
+[P]Has been convicted of a felony related to theft, violence, sexual assault, fraud, or drug offenses.
+[P]
+[P]
+[P]Has had a complaint investigation for abuse, neglect, or exploitation adjudicated and founded by the department.
+[P]
+[P]Waiver Process: The department may grant a waiver of the above disqualifications if, after reviewing the underlying circumstances, it determines that the person does not pose a threat to the health, safety, or well-being of patients. Any waiver request shall be documented and maintained in the personnel file.
+[P]
+[P]
+[P]4.0 HEALTH SCREENING (He-P 809.17(h))
+[P]
+[P]In strict compliance with He-P 809.17(h)(7), prior to any contact with patients or food, all personnel must submit to the agency the results of:
+[P]
+[P]
+[P]Physical Examination/Health Screening: A physical examination or health screening performed by a licensed nurse or a licensed practitioner indicating the individual is physically able to perform their duties.
+[P]
+[P]
+[P]Tuberculosis (TB) Testing: A 2-step tuberculosis (TB) testing using the Mantoux method, or another method approved by the Centers for Disease Control (CDC) (e.g., IGRA blood test).
+[P]
+[P]
+[P]Timeframe: Both the physical examination/health screening and the initial TB testing must have been conducted not more than 12 months prior to employment, contract, or engagement.
+[P]
+[P]
+[P]5.0 TRAINING & COMPETENCY
+[P]
+[P]
+[P]5.1 General Orientation
+[P]
+[P]All staff shall complete a comprehensive orientation regarding agency policies, patient rights, infection control, and emergency procedures prior to providing independent care.
+[P]
+[P]
+[P]5.2 Dementia Training (RSA 151:47-51)
+[P]
+[P]In compliance with New Hampshire RSA 151:47-51, all direct care staff shall receive specific, documented training in dementia care.
+[P]
+[P]
+[P]Initial Training (6 Hours): All direct care staff must complete a minimum of six (6) hours of initial dementia training within 90 days of their date of hire. Training shall cover: Overview of Alzheimer’s disease and related dementias; Effective communication strategies for cognitively impaired patients; Management of difficult behaviors (e.g., aggression, wandering); Safety precautions and fall prevention specific to dementia.
+[P]
+[P]
+[P]Certificate of Completion: For the initial training, a formal certificate of completion must be issued and maintained in the employee’s personnel file. This certificate must explicitly include: the specific topics covered, the competencies achieved (quizzes/written tests are accepted as valid documentation), and the date the training was completed.
+[P]
+[P]
+[P]Annual Continuing Education (4 Hours): All direct care staff shall complete a minimum of four (4) hours of continuing education focused on dementia care per calendar year.
+[P]
+[P]
+[P]5.3 Competency Evaluation
+[P]
+[P]All LNAs and HHAs must demonstrate competency in performing specific personal care tasks (e.g., transfers, bathing) under the direct observation of a Registered Nurse prior to field assignment. Furthermore, if an RN delegates any task outside the caregiver’s baseline scope (such as medication administration), a specific, documented competency evaluation must be completed and signed by the delegating RN for that specific task and patient.
+[P]
+[P]
+[P]5.4 Annual In-Service Education (He-P 809.17(h)(5))
+[P]
+[P]In accordance with He-P 809.17, the agency shall provide an annual in-service education program for all personnel providing direct care.
+[P]
+[P]Mandatory Annual Review Topics:
+[P]
+[P]
+[P]The patient’s bill of rights (RSA 151:21-b).
+[P]
+[P]
+[P]Infection control procedures.
+[P]
+[P]
+[P]Emergency procedures.
+[P]
+[P]
+[P]The agency’s complaint procedure.
+[P]
+[P]
+[P]Mandatory reporting requirements for abuse, neglect, and exploitation.
+[P]
+[P]
+[P]Confidentiality of patient information.
+[P]
+[P]Documentation: All in-service training hours and annual reviews must be thoroughly documented, including the date of training, topic covered, instructor name/title, duration of the training, and the employee’s signature. This documentation must be maintained securely in the employee’s personnel file.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 3: PATIENT RIGHTS (RSA 151:21-b)
+[P]
+[P]
+[P]1.0 POLICY
+[P]
+[P]Every patient admitted to NH Care Center, LLC shall be provided with a written copy of the Home Care Clients’ Bill of Rights pursuant to RSA 151:21-b. This document must be reviewed with the patient/representative prior to the initiation of care.
+[P]
+[P]Presumption of Competency (He-P 809.14(i)): NH Care Center shall consider all patients competent and capable of making health care decisions unless the patient: (1) Has a guardian appointed by a court of competent jurisdiction; or (2) Has a durable power of attorney for health care that has been activated in accordance with RSA 137-J.
+[P]
+[P]
+[P]2.0 DETAILED RIGHTS
+[P]
+[P]Patients have the right to:
+[P]
+[P]
+[P]Respect & Dignity: Be treated with consideration, respect, and full recognition of dignity and individuality, including privacy in treatment and personal care.
+[P]
+[P]
+[P]Information About Caregivers: Be informed of the name, licensure status, and staff position of all persons providing care.
+[P]
+[P]
+[P]Information About Condition: Be fully informed of their health condition and be encouraged to participate in their care planning.
+[P]
+[P]
+[P]Plan of Care Participation: Participate in the development and periodic revision of the Plan of Care (POC) and be informed of any changes to the plan before they are made.
+[P]
+[P]
+[P]Refusal of Treatment: Refuse treatment within the confines of the law and be informed of the medical consequences of such action.
+[P]
+[P]
+[P]Freedom from Abuse: Be free from emotional, psychological, sexual, and physical abuse, exploitation, and neglect.
+[P]
+[P]
+[P]Confidentiality: Ensure confidential treatment of their clinical record and personal information (HIPAA).
+[P]
+[P]
+[P]Access to Records: Review their clinical record upon request.
+[P]
+[P]
+[P]Financial Disclosure: Be informed in writing and in advance of the charges for services, including what is covered by insurance and what the patient is expected to pay.
+[P]
+[P]
+[P]Freedom from Restraint: Be free from chemical and physical restraints.
+[P]
+[P]
+[P]Property Rights: Have their property treated with respect.
+[P]
+[P]
+[P]Voice Grievances: Voice grievances regarding treatment or care without fear of reprisal, and be informed of the availability of the Office of the Long-Term Care Ombudsman for advocacy.
+[P]
+[P]
+[P]Ombudsman Access: Be informed of the contact information for the NH Office of the Long-Term Care Ombudsman: (603) 271-4375 or 1-800-442-5640.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 4: GRIEVANCE PROCEDURE (RSA 151:20)
+[P]
+[P]
+[P]1.0 FILING A COMPLAINT WITH THE AGENCY
+[P]
+[P]Patients or their representatives may file a complaint regarding care, treatment, or lack of respect for property without fear of reprisal.
+[P]
+[P]A written copy of this complaint procedure shall be provided to each patient at the time of admission and shall also be posted at the licensed premises.
+[P]
+[P]
+[P]Contact: Administrator, NH Care Center LLC
+[P]
+[P]
+[P]Phone: (603) 224-0036 or (603) 369-4880
+[P]
+[P]
+[P]Address: 143 North Main St, Suite 202A, Concord, NH 03301
+[P]
+[P]
+[P]Process: The Administrator will acknowledge the grievance within 48 hours, investigate the matter, and provide a written resolution within 7 days.
+[P]
+[P]
+[P]2.0 FILING A COMPLAINT WITH THE STATE
+[P]
+[P]If the patient is not satisfied with the agency’s resolution, or prefers to report directly to the state, they may contact:
+[P]
+[P]1. NH Department of Health and Human Services (DHHS)
+[P]
+[P]
+[P]Division: Health Facilities Administration (Licensing)
+[P]
+[P]
+[P]Address: 129 Pleasant Street, Concord, NH 03301
+[P]
+[P]
+[P]Phone: (603) 271-9039 or 1-800-852-3345 (Ext. 9039)
+[P]
+[P]
+[P]Email: HFA-Licensing@dhhs.nh.gov
+[P]
+[P]2. Office of the Long-Term Care Ombudsman
+[P]
+[P]For patients aged 60+ or those with chronic conditions receiving long-term care services.
+[P]
+[P]
+[P]Address: 129 Pleasant Street, Concord, NH 03301
+[P]
+[P]
+[P]Phone: (603) 271-4375 or 1-800-442-5640
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 5: ADMISSION CRITERIA & ONBOARDING PROCEDURES
+[P]
+[P]
+[P]1.0 ADMISSION CRITERIA
+[P]
+[P]NH Care Center shall accept patients who:
+[P]
+[P]
+[P]Reside within the defined service area (New Hampshire).
+[P]
+[P]
+[P]Have needs that can be safely met in the home environment.
+[P]
+[P]
+[P]Agree to the Terms of Service and Safety Policies.
+[P]
+[P]
+[P]1.1 Service Determination (Intake Triage)
+[P]
+[P]Upon initial contact, the Intake Coordinator shall identify the primary needs of the patient to determine the appropriate service track and regulatory requirements:
+[P]
+[P]Skilled Nursing Track:
+[P]
+[P]
+[P]Definition: Patient requires services that can only be safely performed by or under the supervision of a licensed nurse (RN/LPN) or therapist. Examples: Wound care, IV therapy, IM injections, complex medication teaching/management, unstable vital signs.
+[P]
+[P]
+[P]Requirement: A written or verbal Physician’s Order is MANDATORY before care can begin.
+[P]
+[P]Non-Medical (Personal Care/Support) Track:
+[P]
+[P]
+[P]Definition: Patient is medically stable but requires assistance with Activities of Daily Living (ADLs) or Instrumental ADLs (IADLs). Examples: Bathing, dressing, meal preparation, light housekeeping.
+[P]
+[P]
+[P]Requirement: Services are typically directed by the patient/family. A Physician’s Order is generally not required (unless mandated by a specific payer like Medicaid Waiver), but an RN Assessment and Care Plan are still required by Agency Policy.
+[P]
+[P]
+[P]2.0 PROCEDURE: SKILLED NURSING ONBOARDING WORKFLOW
+[P]
+[P]This workflow applies when a patient requires Licensed Nursing (RN/LPN) services under a Physician’s Order.
+[P]
+[P]Step 1: Referral & Intake
+[P]
+[P]
+[P]Action: Receive referral (face sheet, H&P, discharge summary) from hospital, physician, or facility.
+[P]
+[P]
+[P]Verification: Intake Coordinator verifies insurance eligibility and ensures the specific medical needs (e.g., wound vac, IV) are within the agency’s scope and staffing capability.
+[P]
+[P]Step 2: Physician Orders (He-P 809.15)
+[P]
+[P]
+[P]Requirement: Written or verbal orders must be obtained from the ordering physician prior to the start of care.
+[P]
+[P]
+[P]Content: Orders must specify treatments, medication, diet, and activity level.
+[P]
+[P]Step 3: Initial RN Assessment (The “Start of Care”) (He-P 809.15)
+[P]
+[P]
+[P]Timing: An RN must perform the initial comprehensive assessment within 48 hours of the referral or on the physician-ordered Start of Care (SOC) date.
+[P]
+[P]Comprehensive Clinical Assessment Scope (Head-to-Toe):
+[P]
+[P]
+[P]Neurological: Level of consciousness, orientation (Person, Place, Time), memory recall, pupil reaction, and grip strength/equality.
+[P]
+[P]
+[P]HEENT (Head, Eyes, Ears, Nose, Throat): Vision/hearing deficits, condition of oral mucosa (hydration, sores), and swallowing ability (dysphagia screen).
+[P]
+[P]
+[P]Cardiopulmonary: Auscultation of heart sounds (regularity/murmurs) and lung sounds (clear/crackles/wheezes) in all lobes; assessment of O2 saturation, capillary refill, and peripheral edema (pitting vs. non-pitting).
+[P]
+[P]
+[P]Gastrointestinal (GI): Abdominal auscultation (bowel sounds), palpation for tenderness/distension, and review of bowel habits (last BM, constipation/diarrhea protocols).
+[P]
+[P]
+[P]Genitourinary (GU): Assessment of urinary continence, characteristics of urine (color/odor), and management of devices (Foley/Suprapubic catheters).
+[P]
+[P]
+[P]Integumentary (Skin): Complete full-body skin check using the Braden Scale to risk-stratify for pressure ulcers. Detailed documentation of any existing wounds, incisions, or bruises (location, size, drainage).
+[P]
+[P]
+[P]Musculoskeletal: Evaluation of Range of Motion (ROM), gait stability, use of assistive devices, and fall risk using a validated tool (e.g., MAHC-10 or Morse Fall Scale).
+[P]
+[P]
+[P]Pain Assessment: Evaluation of pain intensity (0-10 scale), location, frequency, aggravating/alleviating factors, and effectiveness of current pain management interventions.
+[P]
+[P]
+[P]Medication Reconciliation: Review of all prescription and OTC medications against the hospital discharge list and physician orders to identify drug-drug interactions, duplications, or compliance issues.
+[P]
+[P]
+[P]Homebound Verification: Documentation confirming the patient meets the “Homebound” criteria (leaving home requires a taxing effort and is infrequent) if applicable for insurance billing.
+[P]
+[P]Step 4: Mandatory Disclosures (RSA 151)
+[P]
+[P]
+[P]Patient Rights: A written copy of the Home Care Clients’ Bill of Rights (RSA 151:21-b).
+[P]
+[P]
+[P]Advance Directives: Ask if the patient has a Living Will/DNR and obtain a copy.
+[P]
+[P]
+[P]Financial Liability: Written notice of expected costs and insurance coverage.
+[P]
+[P]
+[P]Complaint Procedure: A written copy of the agency’s complaint procedure, including DHHS contact information.
+[P]
+[P]Step 5: Plan of Care (POC) Authorization
+[P]
+[P]
+[P]The RN develops the POC based on assessment findings.
+[P]
+[P]
+[P]The POC is sent to the attending physician for signature. Verbal orders may be used to start care but must be countersigned.
+[P]
+[P]
+[P]3.0 PROCEDURE: NON-MEDICAL (PERSONAL CARE) ONBOARDING WORKFLOW
+[P]
+[P]This workflow applies when a patient requires only Personal Care (ADL) or Homemaker services, typically Self-Pay or Medicaid Waiver.
+[P]
+[P]Step 1: Inquiry & Screening
+[P]
+[P]
+[P]Receive inquiry from patient or family.
+[P]
+[P]
+[P]Conduct phone screening to determine if needs are strictly non-medical. If medical needs (e.g., insulin injections) are identified, the workflow defaults to Skilled Nursing.
+[P]
+[P]Step 2: Initial RN Assessment (He-P 809.15)
+[P]
+[P]
+[P]Even for non-medical personal care, a Registered Nurse must conduct the initial assessment to evaluate the patient’s functional status and safety.
+[P]
+[P]
+[P]Timing: Must occur prior to or on the date services are to be provided.
+[P]
+[P]Functional & Safety Assessment Scope:
+[P]
+[P]
+[P]ADL Capabilities: Evaluation of the patient’s ability to perform specific tasks to determine the exact level of assistance needed.
+[P]
+[P]
+[P]Cognitive Status: Assessment of orientation (Person, Place, Time) and safety judgment.
+[P]
+[P]
+[P]Fall Risk Assessment: Evaluation of gait, balance, history of falls, and use of assistive devices.
+[P]
+[P]
+[P]Home Environment Safety: Inspection of the home for hazards, including loose rugs, poor lighting, lack of bathroom grab bars, smoke detector functionality, and presence of firearms.
+[P]
+[P]
+[P]Emergency Preparedness: Assignment of a Triage Level (1, 2, or 3) based on the patient’s dependence on care during a natural disaster.
+[P]
+[P]
+[P]Skin Integrity Check: Visual inspection of skin to report any redness or bruising.
+[P]
+[P]Step 3: Service Agreement & Financial Consent
+[P]
+[P]
+[P]Establish a written contract detailing the specific hourly rates, minimum hours, and cancellation policy.
+[P]
+[P]
+[P]As required by RSA 151, the patient must be informed in writing of their financial responsibility before care begins.
+[P]
+[P]Step 4: Aide Plan of Care (Task List)
+[P]
+[P]
+[P]The RN creates a written instruction sheet (Aide Care Plan) detailing specific ADL tasks.
+[P]
+[P]
+[P]The RN delegates these tasks to the HHA/LNA/PCA.
+[P]
+[P]Step 5: Orientation & Start of Care
+[P]
+[P]
+[P]The RN or Agency Representative orients the assigned caregiver to the Plan of Care.
+[P]
+[P]
+[P]The RN schedules the first supervisory visit (required within 60 days for non-skilled cases).
+[P]
+[P]
+[P]4.0 DISCHARGE, TRANSFER & REFERRAL POLICY
+[P]
+[P]
+[P]4.1 Criteria for Discharge (RSA 151:21(V))
+[P]
+[P]A patient may be discharged or transferred only when:
+[P]
+[P]
+[P]The patient’s medical needs exceed the scope of services the agency can safely provide.
+[P]
+[P]
+[P]The patient or family behavior poses a significant safety threat to agency staff.
+[P]
+[P]
+[P]The patient has failed to pay for services as agreed (Note: Discharge for non-payment requires strict adherence to notice periods and is prohibited for certain Medicaid/Medicare protective classes during active crises).
+[P]
+[P]
+[P]The agency ceases operations.
+[P]
+[P]
+[P]The goals of the Plan of Care have been met and services are no longer medically necessary.
+[P]
+[P]
+[P]4.2 Notice Requirements (RSA 151:26-a)
+[P]
+[P]
+[P]Written Notice: The agency must provide written notice to the patient and their legal representative at least 21 days prior to a non-emergency discharge or transfer, or as soon as practicable for medical emergencies.
+[P]
+[P]Content of Notice must explicitly state:
+[P]
+[P]
+[P]The specific reason for the discharge or transfer.
+[P]
+[P]
+[P]The effective date of the discharge or transfer.
+[P]
+[P]
+[P]The patient’s right to dispute the proposed discharge or transfer.
+[P]
+[P]
+[P]The contact information for the NH Office of the Long-Term Care Ombudsman.
+[P]
+[P]
+[P]4.3 Right to Dispute (RSA 151:26-a)
+[P]
+[P]Patients have the legal right to dispute an agency-initiated discharge or transfer. They may contact the Office of the Long-Term Care Ombudsman for advocacy and assistance:
+[P]
+[P]
+[P]Phone: (603) 271-4375 or 1-800-442-5640
+[P]
+[P]
+[P]Address: 129 Pleasant Street, Concord, NH 03301
+[P]
+[P]
+[P]4.4 Discharge Planning
+[P]
+[P]The Clinical Director or RN Case Manager is responsible for ensuring a safe and coordinated discharge process.
+[P]
+[P]
+[P]Patient Involvement: Discharge planning shall begin upon admission and must include the active participation of the patient, their legal representative, and the attending physician.
+[P]
+[P]
+[P]Referral & Coordination: If the patient requires ongoing care that the agency cannot safely provide, the agency must assist in coordinating a safe transfer to alternative care providers.
+[P]
+[P]
+[P]Discharge Summary: A comprehensive Clinical Discharge Summary must be completed within 7 days of discharge, including a summary of care provided, the patient’s health status at discharge, and a current medication profile. It shall be sent to the attending primary care physician and/or the receiving care facility, and a copy shall be provided to the patient upon request.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 6: THE PLAN OF CARE (POC)
+[P]
+[P]
+[P]1.0 DEVELOPMENT & REQUIREMENTS (He-P 809.15(o)-(q))
+[P]
+[P]An individualized written Plan of Care shall be established for every patient accepted for services.
+[P]
+[P]
+[P]1.1 Skilled Nursing POC Requirements
+[P]
+[P]The POC must be developed in consultation with the patient/family and the attending physician. It must include:
+[P]
+[P]
+[P]Diagnoses: Primary and secondary ICD-10 codes.
+[P]
+[P]
+[P]Goals: Measurable, time-specific goals (e.g., “Wound will decrease in size by 1cm within 2 weeks”).
+[P]
+[P]
+[P]Interventions: Specific nursing actions (e.g., “Change dressing QD with wet-to-dry saline”).
+[P]
+[P]
+[P]Frequency/Duration: Exact schedule (e.g., “SN 3w1, 2w2, 1w3”).
+[P]
+[P]
+[P]Medications: Complete list including dose, route, and frequency.
+[P]
+[P]
+[P]Safety Measures: Fall precautions, bleeding precautions, etc.
+[P]
+[P]
+[P]Functional Limitations: Amputation, paralysis, dyspnea, etc.
+[P]
+[P]
+[P]Rehabilitation Potential: Evaluation of likelihood to return to prior level of function.
+[P]
+[P]
+[P]1.2 Physician Signature
+[P]
+[P]
+[P]Verbal Orders: If care begins based on a verbal order, the verbal order must be written down, signed by the receiving nurse with date/time, and countersigned by the physician (typically within 30 days, or as per specific payer rules).
+[P]
+[P]
+[P]Recertification: The POC must be reviewed and re-signed by the physician at least every 60 days.
+[P]
+[P]
+[P]1.3 Non-Medical (Aide) POC Requirements
+[P]
+[P]For patients receiving only personal care, the POC (Task List) must be developed by the RN and include:
+[P]
+[P]
+[P]Specific ADL tasks authorized.
+[P]
+[P]
+[P]Frequency of visits and duration.
+[P]
+[P]
+[P]Specific prohibitions (e.g., “Do not cut toenails”).
+[P]
+[P]
+[P]Emergency contact numbers.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 7: INFECTION CONTROL & SAFETY (He-P 809.19)
+[P]
+[P]
+[P]1.0 STANDARD PRECAUTIONS (UNIVERSAL PRECAUTIONS)
+[P]
+[P]Policy: NH Care Center considers all blood, body fluids, secretions (except sweat), non-intact skin, and mucous membranes as potentially infectious. Standard Precautions shall be applied to all patient interactions, regardless of diagnosis.
+[P]
+[P]
+[P]1.1 Hand Hygiene
+[P]
+[P]Hand hygiene is the single most important measure to prevent the spread of infection.
+[P]
+[P]
+[P]Method 1 (Alcohol-Based Hand Rub - ABHR): Preferred method for routine hand antisepsis. Apply product to palm and rub hands together, covering all surfaces until dry (approx. 20 seconds).
+[P]
+[P]
+[P]Method 2 (Soap and Water): Required when hands are visibly soiled, after caring for a patient with C. difficile or Norovirus, and after restroom use. Scrub for at least 20 seconds.
+[P]
+[P]The “5 Moments” for Hand Hygiene:
+[P]
+[P]
+[P]Before touching a patient.
+[P]
+[P]
+[P]Before clean/aseptic procedures.
+[P]
+[P]
+[P]After body fluid exposure risk.
+[P]
+[P]
+[P]After touching a patient.
+[P]
+[P]
+[P]After touching patient surroundings.
+[P]
+[P]
+[P]1.2 Personal Protective Equipment (PPE)
+[P]
+[P]Staff must conduct a “Point of Care Risk Assessment” prior to every interaction to select appropriate PPE.
+[P]
+[P]
+[P]Gloves: Wear for contact with blood, body fluids, mucous membranes, non-intact skin, or contaminated items. Change gloves between tasks on the same patient (dirty to clean). Never wash or reuse gloves.
+[P]
+[P]
+[P]Gowns: Wear to protect skin/clothing during procedures likely to generate splashes or sprays of blood/body fluids.
+[P]
+[P]
+[P]Masks/Eye Protection: Wear a surgical mask and eye protection (goggles/face shield) during procedures likely to generate splashes or sprays of respiratory secretions.
+[P]
+[P]
+[P]2.0 TRANSMISSION-BASED PRECAUTIONS
+[P]
+[P]
+[P]2.1 Contact Precautions
+[P]
+[P]
+[P]Indications: MRSA (in open wound), VRE, C. difficile, Scabies, Uncontained drainage.
+[P]
+[P]
+[P]Protocol: Gown and Gloves upon entry to the room. Dedicated equipment left in the home.
+[P]
+[P]
+[P]2.2 Droplet Precautions
+[P]
+[P]
+[P]Indications: Influenza, Pertussis, Mumps.
+[P]
+[P]
+[P]Protocol: Surgical mask upon entry to the home (or within 3 feet of patient). Instruct patient to follow respiratory hygiene.
+[P]
+[P]
+[P]2.3 Airborne Precautions
+[P]
+[P]
+[P]Indications: Active Tuberculosis (TB), Measles, Chickenpox.
+[P]
+[P]
+[P]Policy: NH Care Center does not generally accept patients with active airborne disease unless staff are Fit-Tested for N95 respirators. If a patient is suspected of having active TB, staff must withdraw, notify the Administrator, and refer the patient to a facility with negative pressure capability or a specialized agency.
+[P]
+[P]
+[P]3.0 BAG TECHNIQUE
+[P]
+[P]
+[P]Place the bag on a hard, clean, dry surface (table or chair). Never on the floor.
+[P]
+[P]
+[P]Always place a disposable barrier (pad/newspaper/plastic) under the bag.
+[P]
+[P]
+[P]Perform hand hygiene before opening the bag.
+[P]
+[P]
+[P]Clean/Dirty Zones: The inside of the bag is a “Clean Zone.” Only clean hands and clean supplies enter. Used equipment/waste never goes back into the bag.
+[P]
+[P]
+[P]Close the bag immediately after removing supplies.
+[P]
+[P]
+[P]4.0 CLEANING & DISINFECTION OF PATIENT-CARE EQUIPMENT
+[P]
+[P]
+[P]Reusable Equipment: Non-critical items (BP cuffs, stethoscopes, pulse oximeters) must be cleaned with an EPA-registered disinfectant wipe between every patient.
+[P]
+[P]
+[P]Shared Equipment: Items that cannot be cleaned should be dedicated to a single patient or disposable versions used.
+[P]
+[P]
+[P]5.0 COMMUNICABLE DISEASE & EMPLOYEE HEALTH
+[P]
+[P]
+[P]5.1 Reporting Requirements (He-P 809.19)
+[P]
+[P]The Administrator shall report any outbreak of communicable disease (as defined by NH RSA 141-C) among staff or patients to the NH Division of Public Health Services within 24 hours.
+[P]
+[P]
+[P]5.2 Staff Illness
+[P]
+[P]Staff with the following symptoms must not provide direct patient care:
+[P]
+[P]
+[P]Fever (>100.4°F).
+[P]
+[P]
+[P]Active vomiting or diarrhea.
+[P]
+[P]
+[P]Productive cough with fever.
+[P]
+[P]
+[P]Draining skin lesions that cannot be covered.
+[P]
+[P]
+[P]5.3 Post-Exposure Plan (Needlesticks)
+[P]
+[P]In the event of a percutaneous injury (needlestick) or mucosal exposure to blood:
+[P]
+[P]
+[P]Immediate Care: Wash the area with soap/water. Flush splashes to nose/mouth/skin with water. Irrigate eyes with clean water/saline.
+[P]
+[P]
+[P]Notification: Notify the Administrator immediately.
+[P]
+[P]
+[P]Medical Evaluation: The employee must seek medical evaluation within 2 hours for risk assessment and potential Post-Exposure Prophylaxis (PEP).
+[P]
+[P]
+[P]6.0 BIOMEDICAL WASTE MANAGEMENT
+[P]
+[P]
+[P]Sharps: All needles, lancets, and retractable blades must be disposed of immediately in a rigid, puncture-resistant, leak-proof “Sharps” container. Recapping needles is prohibited.
+[P]
+[P]
+[P]Liquid Waste: Pourable blood/body fluids may be carefully poured down the patient’s toilet.
+[P]
+[P]
+[P]Solid Waste: Dressings saturated with blood (dripping) must be double-bagged and disposed of in accordance with NH solid waste rules. Non-saturated items are general household trash.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 8: EMERGENCY PREPAREDNESS (He-P 809.20)
+[P]
+[P]
+[P]1.0 COMPREHENSIVE EMERGENCY MANAGEMENT PLAN
+[P]
+[P]NH Care Center maintains a written Emergency Preparedness Plan (EPP) to ensure the continuity of essential services during natural or man-made disasters (e.g., ice storms, flooding, pandemics).
+[P]
+[P]
+[P]1.1 Hazard Vulnerability Analysis (HVA)
+[P]
+[P]The agency conducts an annual HVA to identify the specific risks most likely to impact the service area (e.g., in New Hampshire: Winter Storms, Power Outages, Flooding).
+[P]
+[P]
+[P]1.2 Patient Triage System
+[P]
+[P]Upon admission, every patient is assigned a priority code based on their resilience during a service interruption:
+[P]
+[P]
+[P]Level 1 (Critical/Life Sustaining): Patient cannot survive 24 hours without care (e.g., IV life-sustaining meds, insulin-dependent with no able caregiver, bedbound requiring frequent turning). Action: Must be evacuated or visited first.
+[P]
+[P]
+[P]Level 2 (Moderate/Health Risk): Health may decline, but is not immediately life-threatening if a visit is missed for 24-48 hours.
+[P]
+[P]
+[P]Level 3 (Low/Non-Urgent): Routine care (e.g., weekly homemaking, monthly catheter change); can safely wait 72+ hours.
+[P]
+[P]
+[P]1.3 Notification of Local EMS and Emergency Management
+[P]
+[P]In accordance with He-P 809.20, NH Care Center shall coordinate with local emergency responders to ensure the safety of vulnerable individuals during an emergency.
+[P]
+[P]
+[P]EMS Notification: With the patient’s consent, the Administrator or Clinical Director shall notify local Emergency Medical Services (EMS), fire departments, and/or emergency management officials of the location of any highly vulnerable patient (Level 1) who may require their assistance during an emergency or disaster.
+[P]
+[P]
+[P]Life-Sustaining Equipment: Specific notification shall be provided for patients reliant on life-sustaining medical equipment requiring electricity (e.g., oxygen concentrators, ventilators) to ensure they are prioritized for wellness checks, rescue, or alternative power support during prolonged outages.
+[P]
+[P]
+[P]2.0 DISASTER RESPONSE PROTOCOLS
+[P]
+[P]
+[P]2.1 Activation & Command Center
+[P]
+[P]
+[P]Administrator Responsibility: Activates the Command Center and initiates the staff calling tree.
+[P]
+[P]
+[P]Communication: Staff attempt to contact all Level 1 patients to ensure they have supplies/power or have evacuated.
+[P]
+[P]
+[P]Documentation: All attempts to contact patients and the outcome of those calls must be documented in the clinical record.
+[P]
+[P]
+[P]2.2 Interruption of Services
+[P]
+[P]If staff cannot reach the patient’s home due to safety hazards (e.g., road closures, downed lines):
+[P]
+[P]
+[P]The Administrator must be notified immediately.
+[P]
+[P]
+[P]The agency must contact the patient’s emergency contact or family.
+[P]
+[P]
+[P]If the patient is Level 1 and cannot be reached, the agency must contact local emergency services (911/Police/Fire) to request a Welfare Check.
+[P]
+[P]
+[P]2.3 Recovery Phase
+[P]
+[P]Once the immediate threat passes, the agency prioritizes visits to restore normal operations, starting with Level 1 patients who remained at home.
+[P]
+[P]
+[P]3.0 TRAINING & DRILLS
+[P]
+[P]
+[P]Orientation: All new staff are trained on the EPP during orientation.
+[P]
+[P]
+[P]Annual Drill: The agency conducts at least one emergency preparedness drill or table-top exercise annually to test the communication plan.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 9: QUALITY ASSURANCE (He-P 809.18)
+[P]
+[P]
+[P]1.0 QUALITY ASSESSMENT & PERFORMANCE IMPROVEMENT (QAPI)
+[P]
+[P]In compliance with He-P 809.18, NH Care Center maintains an ongoing, data-driven QAPI program to objectively evaluate the quality of patient care and administrative operations.
+[P]
+[P]
+[P]1.1 Quality Assurance Committee
+[P]
+[P]
+[P]Composition: The committee consists of the Administrator, the Director of Patient Services (Clinical Director), and at least one other professional staff member (e.g., a field nurse or therapist).
+[P]
+[P]
+[P]Frequency: The committee meets quarterly (at least 4 times per year).
+[P]
+[P]
+[P]Minutes: Detailed minutes of the meetings, findings, and corrective actions are maintained and available for state inspection.
+[P]
+[P]
+[P]1.2 Clinical Record Review (Chart Audits)
+[P]
+[P]
+[P]Methodology: A random sample of at least 10% of active and closed clinical records are audited quarterly by the Clinical Director or designee.
+[P]
+[P]Audit Criteria — Charts are reviewed for:
+[P]
+[P]
+[P]Presence of signed Physician Orders and Plan of Care.
+[P]
+[P]
+[P]Adherence to the visit frequency ordered.
+[P]
+[P]
+[P]Timely completion of Start of Care and Recertification assessments.
+[P]
+[P]
+[P]Documentation of the patient’s response to treatment.
+[P]
+[P]
+[P]Presence of mandatory consents, Rights acknowledgments, and Advance Directives.
+[P]
+[P]
+[P]1.3 Quality Indicators & Adverse Events
+[P]
+[P]The QA Committee tracks and trends specific high-risk indicators:
+[P]
+[P]
+[P]Infection Rates: (e.g., catheter-associated UTIs, surgical site infections).
+[P]
+[P]
+[P]Fall Rates: Falls with and without injury.
+[P]
+[P]
+[P]Medication Errors: Administration errors or significant adverse drug reactions.
+[P]
+[P]
+[P]Hospitalization Rates: Unplanned transfers to the ER or hospital admission.
+[P]
+[P]
+[P]Patient Complaints: Number and nature of grievances filed.
+[P]
+[P]
+[P]1.4 Patient Satisfaction Surveys
+[P]
+[P]NH Care Center shall conduct patient/family satisfaction surveys on an ongoing basis. Surveys may be distributed at discharge, during recertification periods, or at least annually for long-term patients. Survey results shall be compiled, analyzed, and presented to the QA Committee quarterly. Trends in dissatisfaction shall be addressed through corrective action plans.
+[P]
+[P]
+[P]1.5 Annual Agency Evaluation
+[P]
+[P]An Annual Professional Evaluation of the agency’s total program is conducted. This report summarizes the findings of the quarterly audits, patient satisfaction surveys, and administrative changes, and sets goals for the coming year.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 10: CLINICAL RECORDS (He-P 809.14(q)-(s); He-P 809.15)
+[P]
+[P]
+[P]1.0 RECORD CONTENT & ORGANIZATION
+[P]
+[P]A single, integrated clinical record is maintained for each patient. The record must be accurate, accessible, and organized to facilitate continuity of care.
+[P]
+[P]
+[P]1.1 Required Documents
+[P]
+[P]
+[P]Admission Data: Demographics, Insurance verification, Emergency contacts.
+[P]
+[P]
+[P]Legal Consents: Signed Service Agreement, Consent to Treat, HIPAA Acknowledgment, Patient Rights Receipt.
+[P]
+[P]
+[P]Advance Directives: Copy of DNR/Living Will/POLST (if applicable).
+[P]
+[P]
+[P]Assessments: Comprehensive Initial Assessment, OASIS (if applicable), and Recertification assessments.
+[P]
+[P]
+[P]Physician Orders: Signed Plan of Care (485), Interim Verbal Orders, and Medication Profiles.
+[P]
+[P]
+[P]Progress Notes: Signed and dated clinical notes for every skilled visit and aide visit.
+[P]
+[P]
+[P]Communication Logs: Coordination of care notes between staff and physicians.
+[P]
+[P]
+[P]Discharge Summary: Detailed summary of care provided and discharge status.
+[P]
+[P]
+[P]1.2 Timeliness of Documentation
+[P]
+[P]
+[P]Routine Visits: Clinical notes must be completed and submitted within 24 hours of the visit.
+[P]
+[P]
+[P]Assessments (SOC/Recert): Comprehensive assessments must be completed and locked within 5 days of the assessment date.
+[P]
+[P]
+[P]Verbal Orders: Must be documented in the record on the same day they are received.
+[P]
+[P]
+[P]2.0 AUTHENTICATION & INTEGRITY
+[P]
+[P]
+[P]2.1 Signatures
+[P]
+[P]All entries in the clinical record must be signed and dated by the individual providing the service. Electronic signatures are permitted if the EHR system is secure and password-protected.
+[P]
+[P]
+[P]2.2 Correction of Errors
+[P]
+[P]
+[P]Paper Records: Errors must be corrected by drawing a single line through the incorrect entry, writing “Error” or “Mistaken Entry,” and initialing/dating the correction. White-out, obliteration, or erasing is strictly prohibited.
+[P]
+[P]
+[P]Electronic Records: Corrections must be made via an amendment or addendum that preserves the original entry in the audit trail.
+[P]
+[P]
+[P]2.3 Late Entries
+[P]
+[P]If documentation is not completed within the required timeframe, it must be labeled as a “Late Entry.” The entry must include: the current date and time, the actual date and time the care was provided, and the reason for the delay.
+[P]
+[P]
+[P]3.0 CONFIDENTIALITY & SECURITY
+[P]
+[P]
+[P]3.1 HIPAA Compliance
+[P]
+[P]Clinical records are strictly confidential. Access is restricted to:
+[P]
+[P]
+[P]Authorized clinical staff involved in the patient’s care (“Need to Know”).
+[P]
+[P]
+[P]The patient or their legal representative (upon written request).
+[P]
+[P]
+[P]Authorized state (DHHS) and federal surveyors.
+[P]
+[P]
+[P]3.2 Physical & Electronic Security
+[P]
+[P]
+[P]Paper Records: Must be stored in locked, fire-resistant cabinets within a locked office. When in transit, records must be kept in a locked bag or trunk, never visible in a car.
+[P]
+[P]Electronic Records (EHR) — He-P 809.14(s):
+[P]
+[P]The agency maintains written policies covering the following three required elements:
+[P]
+[P]
+[P]Procedures for Backing Up Files: Electronic records are stored on secure, encrypted servers with automatic daily backup to prevent loss of data.
+[P]
+[P]
+[P]Safeguards for Confidentiality: Staff passwords must be unique and changed every 90 days. Access is role-based and restricted to authorized personnel. Terminated staff access must be revoked immediately.
+[P]
+[P]
+[P]Systems to Prevent Tampering: The EHR system maintains a complete audit trail of all entries, modifications, and access events. Tampering with electronic records is prohibited and subject to disciplinary action.
+[P]
+[P]
+[P]3.3 Release of Information (ROI)
+[P]
+[P]Patients may request copies of their records by submitting a written request. The agency shall provide the records within 30 days of the request (per HIPAA) or sooner if required by state law. A reasonable, cost-based fee may be charged for copying, as permitted by NH law.
+[P]
+[P]
+[P]4.0 RETENTION POLICY
+[P]
+[P]
+[P]Standard Retention: Clinical records shall be retained for a minimum of 6 years following the date of discharge.
+[P]
+[P]
+[P]Minors: For patients under 18, records are retained for 6 years after they reach the age of majority (until age 24).
+[P]
+[P]
+[P]Disposal: After the retention period, records are destroyed via shredding (paper) or permanent digital deletion to prevent reconstruction.
+[P]
+[P]
+[P]5.0 AGENCY CLOSURE PROTOCOL (He-P 809.14(p))
+[P]
+[P]In the event NH Care Center ceases operations:
+[P]
+[P]
+[P]Notification: The agency shall notify the NH DHHS Health Facilities Administration and all active patients at least 60 days prior to closure, including a written closure plan that ensures adequate care of patients until they are transferred or discharged.
+[P]
+[P]
+[P]Transfer: Clinical records shall be transferred to the patient’s new provider or to the specific successor agency designated to maintain the files.
+[P]
+[P]
+[P]Public Notice: The agency shall publish a notice in a local newspaper indicating where former patients can access their records.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 11: REPORTABLE INCIDENTS TO DHHS
+[P]
+[P]
+[P]1.0 POLICY
+[P]
+[P]In compliance with He-P 809.14(n), NH Care Center shall report all reportable incidents to the NH DHHS Health Facilities Administration. A reportable incident is any occurrence while the patient is in the care of HHCP personnel that includes, but is not limited to:
+[P]
+[P]
+[P]Unexpected death of a patient.
+[P]
+[P]
+[P]Serious injury to a patient (e.g., fractures, lacerations requiring medical intervention).
+[P]
+[P]
+[P]Medication errors resulting in harm or requiring medical intervention.
+[P]
+[P]
+[P]Allegations of abuse, neglect, or exploitation by agency staff.
+[P]
+[P]
+[P]Any event that results in an unplanned hospitalization or emergency room visit directly related to the care provided by the agency.
+[P]
+[P]
+[P]Elopement or missing of a patient who is cognitively impaired.
+[P]
+[P]
+[P]2.0 REPORTING PROCEDURE
+[P]
+[P]
+[P]Immediate Internal Notification: The staff member involved or discovering the incident shall immediately notify the Administrator and the Director of Patient Services.
+[P]
+[P]
+[P]Report to DHHS: The Administrator or designee shall report the incident to DHHS Health Facilities Administration within 2 business days by fax or mail, accompanied by a telephone call. Contact: (603) 271-9039 or 1-800-852-3345 (Ext. 9039). Address: 129 Pleasant Street, Concord, NH 03301.
+[P]
+[P]
+[P]Documentation: A detailed written incident report shall be completed and placed in the patient’s clinical record, including: the date, time, and nature of the incident; actions taken; notifications made; and the patient’s condition.
+[P]
+[P]
+[P]Follow-Up: The QA Committee shall review all reportable incidents and implement corrective actions as needed. A follow-up report shall be submitted to DHHS if requested.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 12: ADVANCE DIRECTIVES POLICY
+[P]
+[P]
+[P]1.0 POLICY
+[P]
+[P]NH Care Center respects the right of every patient to make informed decisions about their healthcare, including the right to accept or refuse medical treatment, in accordance with RSA 137-J (Durable Power of Attorney for Health Care) and RSA 137-H (Living Wills).
+[P]
+[P]
+[P]2.0 PROCEDURE
+[P]
+[P]
+[P]Inquiry at Admission: At the time of admission, the RN shall ask the patient (or their legal representative) whether they have executed any advance directives, including a Living Will, Durable Power of Attorney for Health Care (DPOA-HC), or a POLST (Provider Orders for Life-Sustaining Treatment)/DNR order.
+[P]
+[P]
+[P]Documentation: If an advance directive exists, a copy shall be obtained and placed in the clinical record. The existence and type of advance directive shall be documented in the Plan of Care.
+[P]
+[P]
+[P]No Advance Directive: If the patient does not have an advance directive, the agency shall provide information about the right to establish one, but shall not require the patient to create one as a condition of receiving services.
+[P]
+[P]
+[P]Staff Response to DNR/POLST: If a patient has a valid DNR or POLST in place and experiences a cardiac or respiratory arrest, staff shall provide comfort measures as indicated in the directive and shall not initiate CPR. Staff shall call 911 and inform EMS of the DNR/POLST status. The DNR/POLST document must be kept in an accessible location in the patient’s home.
+[P]
+[P]
+[P]No Advance Directive on File: If no DNR/POLST is on file and a patient experiences a cardiac or respiratory arrest, staff shall call 911 immediately and initiate CPR (if trained) until emergency services arrive.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 13: CONTROLLED SUBSTANCE DIVERSION PREVENTION
+[P]
+[P]
+[P]1.0 POLICY
+[P]
+[P]In compliance with RSA 151:41, NH Care Center maintains a controlled substance abuse, misuse, and diversion prevention policy to safeguard patients and ensure the integrity of medication management.
+[P]
+[P]
+[P]2.0 PROCEDURES
+[P]
+[P]
+[P]Counting at Every Visit: When controlled substances are administered by agency staff, a controlled substance count shall be performed at every visit and documented in the clinical record.
+[P]
+[P]
+[P]Discrepancy Reporting: Any discrepancy in controlled substance counts shall be reported immediately to the Administrator and the Director of Patient Services. A written incident report shall be completed.
+[P]
+[P]
+[P]Secure Storage Education: Nurses shall educate patients and family members on the safe storage of controlled substances (locked location, out of reach of children/visitors).
+[P]
+[P]
+[P]Staff Monitoring: The agency shall monitor for signs of possible staff diversion, including: frequent requests to work with patients who have high-quantity controlled substances, unexplained discrepancies, and behavioral changes. Any suspected diversion shall be investigated and reported to law enforcement and the appropriate licensing board.
+[P]
+[P]
+[P]Disposal: Staff shall not dispose of controlled substances. Disposal guidance shall be provided to the patient/family in accordance with DEA guidelines.
+[P]
+[P]
+
+[P]
+[P]
+[P]PART 14: MANDATORY REPORTING OF ABUSE, NEGLECT, AND EXPLOITATION
+[P]
+[P]
+[P]1.0 POLICY STATEMENT (RSA 161-F & RSA 169-C)
+[P]
+[P]In strict compliance with New Hampshire law, all employees, contractors, and volunteers of NH Care Center, LLC act as mandated reporters. Any caregiver or staff member who has a “reason to believe” (for vulnerable adults/elderly per RSA 161-F:46) or a “reason to suspect” (for children per RSA 169-C:29) that a patient has been subjected to abuse, neglect, self-neglect, or exploitation is legally mandated to report this directly to the appropriate state authorities. This legal duty rests solely with the individual who has the suspicion and cannot be delegated to a supervisor or the Administrator.
+[P]
+[P]
+[P]2.0 STAFF TRAINING CURRICULUM
+[P]
+[P]Pursuant to He-P 809.17 and state law, all caregivers shall receive comprehensive training during initial orientation (prior to any direct patient contact), and annually thereafter, concerning mandatory reporting. Training shall include:
+[P]
+[P]
+[P]Module 1 — Definitions and Signs: Physical Abuse (unexplained bruises, grip marks, burns, frequent unexplained falls); Emotional/Psychological Abuse (threats, intimidation, isolation, sudden fearfulness); Sexual Abuse (non-consensual sexual contact); Neglect (soiled clothing, malnutrition, untreated bedsores); Self-Neglect (hoarding, unsanitary conditions, refusing essential medical care); Financial Exploitation (missing personal items, unpaid bills, unauthorized credit card use).
+[P]
+[P]
+[P]Module 2 — The “Reason to Suspect/Believe” Standard: Caregivers do not need definitive proof, a confession, or an investigation to report. They only need a reasonable suspicion based on objective observations, patient statements, or environmental indicators.
+[P]
+[P]
+[P]Module 3 — Reporting Protocol: Exact step-by-step reporting procedure (detailed in Section 3.0 below), including information gathering and specific agency phone numbers.
+[P]
+[P]
+[P]Module 4 — The Non-Delegation Rule: Informing the Administrator or a nursing supervisor does not fulfill the legal obligation. The individual must personally initiate the report to the state.
+[P]
+[P]
+[P]Module 5 — Legal Protections and Penalties: Legal immunity for good-faith reports, protection against employer retaliation, and criminal penalties (misdemeanor) for failing to report.
+[P]
+[P]
+[P]3.0 PROCEDURE FOR REPORTING A SUSPICION
+[P]
+[P]Step 1: Ensure Immediate Safety
+[P]
+[P]If the patient is in immediate, life-threatening danger, or a crime is actively in progress, the caregiver must secure their own safety and call 911 first.
+[P]
+[P]Step 2: Gather Required Information
+[P]
+[P]Before calling the state agency, gather: the patient’s name, age/date of birth, address, the nature of the suspected abuse/neglect, any evidence of previous abuse, the name of the suspected perpetrator (if known), and any other helpful information. Do NOT delay reporting if some information is missing.
+[P]
+[P]Step 3: Report Directly to the State
+[P]
+[P]For Adults/Elderly (Age 18+ — RSA 161-F):
+[P]
+[P]
+[P]Bureau of Elderly and Adult Services (BEAS) Central Intake: 1-800-949-0470 or (603) 271-7014
+[P]
+[P]
+[P]Address: NH DHHS — BEAS, 129 Pleasant Street, Concord, NH 03301
+[P]
+[P]
+[P]Hours: Monday-Friday, 8:00 AM to 4:30 PM
+[P]
+[P]
+[P]After Hours: Reports must be made immediately to local police dispatch or 911.
+[P]
+[P]For Children (Under Age 18 — RSA 169-C):
+[P]
+[P]
+[P]Division for Children, Youth and Families (DCYF) Central Intake: 1-800-894-5533 or (603) 271-6562
+[P]
+[P]
+[P]Address: NH DHHS — DCYF Central Intake, 129 Pleasant Street, Concord, NH 03301
+[P]
+[P]
+[P]Hours: Monday-Friday, 8:00 AM to 4:30 PM
+[P]
+[P]
+[P]After Hours: Reports must be made immediately to local police dispatch or 911.
+[P]
+[P]Step 4: Internal Notification (Post-State Report)
+[P]
+[P]Immediately after notifying BEAS, DCYF, or local law enforcement, notify the Agency Administrator that a report was filed.
+[P]
+[P]Exception: If the suspicion involves the Agency Administrator as the perpetrator or an accomplice, do NOT notify the Administrator internally. Report directly to the state agencies and/or law enforcement only.
+[P]
+[P]Step 5: Objective Documentation
+[P]
+[P]Document objective findings (exact quotes, descriptions of bruises, environmental hazards) in the clinical record. Do not conduct internal investigations, interrogate the patient or family, or confront the suspected abuser.
+[P]
+[P]
+[P]4.0 PROTECTION FROM RETALIATION
+[P]
+[P]NH Care Center, LLC strictly prohibits any form of retaliation, discrimination, or adverse employment action against any employee who makes a good-faith report of suspected abuse, neglect, or exploitation to state authorities, in accordance with state whistleblower protections. Under RSA 161-F:47 and RSA 169-C:31, anyone participating in making a report in good faith is immune from civil or criminal liability.
+[P]
+[P]
+
+[P]
+[P]
+[P]REVISION HISTORY
+[P]
+[P]This log tracks all revisions to the Policies & Procedures Manual:
+[P]
+[P]
+[P]
+[P]Version 1.0 — 02/17/2026: Original draft.
+[P]
+[P]Version 2.0 — 03/09/2026: Comprehensive compliance update. All He-P 809 citations corrected to current (2018) rule numbering. Added new sections: Policy Review Cycle, Posting Requirements, Firearms Safety, Prohibition on Falsification, Contracted Services, Administrator Qualifications, Director of Patient Services, Reportable Incidents, Advance Directives, Controlled Substance Diversion Prevention, Patient Satisfaction Surveys, Revision History. Expanded sections: Patient Rights, Grievance Procedure, Background Checks, Medication Management, Electronic Records Security, Agency Closure Protocol. Standardized terminology (“patient”/“client” equivalence). Added presumption of competency statement.
+[P]
+[P]
+[P]
+[P]
+[P]
+[P]
+[P]SIGNATURES
+[P]
+[P]
+[P]
+[P]Effective Date: ___________________
+[P]
+[P]
+[P]
+[P]Administrator Signature: _________________________________     Date: _______________
+[P]
+[P]
+[P]
+[P]Nursing Director Signature: ______________________________     Date: _______________
+[P]
+[P]

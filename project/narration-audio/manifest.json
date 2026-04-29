@@ -1,0 +1,254 @@
+[
+  {
+    "index": 0,
+    "key": "Cold Open",
+    "file": "01.mp3",
+    "duration": 2.115917
+  },
+  {
+    "index": 1,
+    "key": "Welcome",
+    "file": "02.mp3",
+    "duration": 12.826083
+  },
+  {
+    "index": 2,
+    "key": "Who We Are",
+    "file": "03.mp3",
+    "duration": 14.733042
+  },
+  {
+    "index": 3,
+    "key": "Mission",
+    "file": "04.mp3",
+    "duration": 9.717542
+  },
+  {
+    "index": 4,
+    "key": "Ch.1 Patient-Centered Care",
+    "file": "05.mp3",
+    "duration": 3.970583
+  },
+  {
+    "index": 5,
+    "key": "Two Service Tracks",
+    "file": "06.mp3",
+    "duration": 28.10775
+  },
+  {
+    "index": 6,
+    "key": "The 14 Rights",
+    "file": "07.mp3",
+    "duration": 33.358333
+  },
+  {
+    "index": 7,
+    "key": "Freedom from Abuse",
+    "file": "08.mp3",
+    "duration": 22.857125
+  },
+  {
+    "index": 8,
+    "key": "Ch.2 Privacy & HIPAA",
+    "file": "09.mp3",
+    "duration": 3.970583
+  },
+  {
+    "index": 9,
+    "key": "HIPAA Uses",
+    "file": "10.mp3",
+    "duration": 20.1665
+  },
+  {
+    "index": 10,
+    "key": "Sensitive Info",
+    "file": "11.mp3",
+    "duration": 25.129792
+  },
+  {
+    "index": 11,
+    "key": "Ch.3 Safety",
+    "file": "12.mp3",
+    "duration": 3.7355
+  },
+  {
+    "index": 12,
+    "key": "Hand Hygiene",
+    "file": "13.mp3",
+    "duration": 23.04
+  },
+  {
+    "index": 13,
+    "key": "PPE",
+    "file": "14.mp3",
+    "duration": 23.092208
+  },
+  {
+    "index": 14,
+    "key": "Precautions",
+    "file": "15.mp3",
+    "duration": 22.491417
+  },
+  {
+    "index": 15,
+    "key": "Bag Technique",
+    "file": "16.mp3",
+    "duration": 18.912625
+  },
+  {
+    "index": 16,
+    "key": "Sharps & Needlesticks",
+    "file": "17.mp3",
+    "duration": 24.581208
+  },
+  {
+    "index": 17,
+    "key": "Ch.4 The Work",
+    "file": "18.mp3",
+    "duration": 3.186917
+  },
+  {
+    "index": 18,
+    "key": "Onboarding",
+    "file": "19.mp3",
+    "duration": 20.271
+  },
+  {
+    "index": 19,
+    "key": "Plan of Care",
+    "file": "20.mp3",
+    "duration": 24.293875
+  },
+  {
+    "index": 20,
+    "key": "Delegation",
+    "file": "21.mp3",
+    "duration": 23.693042
+  },
+  {
+    "index": 21,
+    "key": "Documentation",
+    "file": "22.mp3",
+    "duration": 21.054667
+  },
+  {
+    "index": 22,
+    "key": "Ch.5 People & Quality",
+    "file": "23.mp3",
+    "duration": 3.7355
+  },
+  {
+    "index": 23,
+    "key": "Training",
+    "file": "24.mp3",
+    "duration": 29.17875
+  },
+  {
+    "index": 24,
+    "key": "Reporting",
+    "file": "25.mp3",
+    "duration": 26.488125
+  },
+  {
+    "index": 25,
+    "key": "Emergency Prep",
+    "file": "26.mp3",
+    "duration": 24.293875
+  },
+  {
+    "index": 26,
+    "key": "Quality Assurance",
+    "file": "27.mp3",
+    "duration": 19.0955
+  },
+  {
+    "index": 27,
+    "key": "Governance",
+    "file": "28.mp3",
+    "duration": 23.614667
+  },
+  {
+    "index": 28,
+    "key": "Firearms",
+    "file": "29.mp3",
+    "duration": 25.939583
+  },
+  {
+    "index": 29,
+    "key": "Personal Care Detail",
+    "file": "30.mp3",
+    "duration": 17.6065
+  },
+  {
+    "index": 30,
+    "key": "Skilled Nursing Detail",
+    "file": "31.mp3",
+    "duration": 21.890583
+  },
+  {
+    "index": 31,
+    "key": "Personnel",
+    "file": "32.mp3",
+    "duration": 21.342042
+  },
+  {
+    "index": 32,
+    "key": "Dementia",
+    "file": "33.mp3",
+    "duration": 28.290583
+  },
+  {
+    "index": 33,
+    "key": "Grievance",
+    "file": "34.mp3",
+    "duration": 32.940375
+  },
+  {
+    "index": 34,
+    "key": "Discharge",
+    "file": "35.mp3",
+    "duration": 25.417125
+  },
+  {
+    "index": 35,
+    "key": "Cleaning & Waste",
+    "file": "36.mp3",
+    "duration": 26.540375
+  },
+  {
+    "index": 36,
+    "key": "Advance Directives",
+    "file": "37.mp3",
+    "duration": 24.111
+  },
+  {
+    "index": 37,
+    "key": "Controlled Substances",
+    "file": "38.mp3",
+    "duration": 27.219583
+  },
+  {
+    "index": 38,
+    "key": "Records",
+    "file": "39.mp3",
+    "duration": 25.182042
+  },
+  {
+    "index": 39,
+    "key": "Reportable to DHHS",
+    "file": "40.mp3",
+    "duration": 25.182042
+  },
+  {
+    "index": 40,
+    "key": "Recap",
+    "file": "41.mp3",
+    "duration": 9.665292
+  },
+  {
+    "index": 41,
+    "key": "Acknowledgment",
+    "file": "42.mp3",
+    "duration": 15.621208
+  }
+]
