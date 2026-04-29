@@ -31,6 +31,7 @@ let chromium;
 try { ({ chromium } = require('playwright')); }
 catch { ({ chromium } = require('/opt/node22/lib/node_modules/playwright')); }
 const http  = require('http');
+const https = require('https');
 const fs    = require('fs');
 const path  = require('path');
 const os    = require('os');
@@ -181,6 +182,42 @@ async function captureVideo(videoOutPath) {
 
   const page = await context.newPage();
 
+  // The sandbox blocks unpkg.com; serve React/ReactDOM/Babel from vendor/ instead.
+  // Hashes match the integrity= attributes in the HTML, so SRI still passes.
+  const vendorMap = {
+    'https://unpkg.com/react@18.3.1/umd/react.development.js':
+      path.join(PROJECT_DIR, 'vendor', 'react.development.js'),
+    'https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js':
+      path.join(PROJECT_DIR, 'vendor', 'react-dom.development.js'),
+    'https://unpkg.com/@babel/standalone@7.29.0/babel.min.js':
+      path.join(PROJECT_DIR, 'vendor', 'babel.min.js'),
+  };
+  await page.route('**/*', async (route) => {
+    const url = route.request().url();
+    const local = vendorMap[url];
+    if (local) {
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: fs.readFileSync(local) });
+      return;
+    }
+    // Proxy Google Fonts through Node (curl works in-sandbox, browser TLS doesn't)
+    if (/^https:\/\/fonts\.(googleapis|gstatic)\.com\//.test(url)) {
+      try {
+        const body = await new Promise((resolve, reject) => {
+          https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+            const chunks = [];
+            res.on('data', (c) => chunks.push(c));
+            res.on('end', () => resolve(Buffer.concat(chunks)));
+            res.on('error', reject);
+          }).on('error', reject);
+        });
+        const ct = url.includes('googleapis.com') ? 'text/css' : 'font/woff2';
+        route.fulfill({ status: 200, contentType: ct, body });
+      } catch { route.abort(); }
+      return;
+    }
+    route.continue();
+  });
+
   // Inject RAF speed multiplier so the animation runs SPEED_MULT× faster.
   // This halves (or reduces) the recording time; ffmpeg stretches it back.
   await page.addInitScript((mult) => {
@@ -193,11 +230,19 @@ async function captureVideo(videoOutPath) {
     });
   }, SPEED_MULT);
 
+  page.on('pageerror', err => log(`  [pageerror] ${err.message}`));
+
   log('Loading orientation page…');
   await page.goto(`http://127.0.0.1:${port}/`, { waitUntil: 'networkidle', timeout: 60_000 });
 
-  // Extra wait for fonts and React hydration
-  await page.waitForTimeout(4_000);
+  // Wait for Babel to finish compiling JSX and React to mount the app.
+  log('Waiting for app to mount…');
+  await page.waitForFunction(
+    () => window.React && window.ReactDOM && document.getElementById('root')?.children?.length > 0,
+    { timeout: 60_000 }
+  );
+  // Small extra buffer for fonts and any deferred work
+  await page.waitForTimeout(2_000);
 
   log(`Starting animation (will run at ${SPEED_MULT}× speed)…`);
   await page.keyboard.press('Space');
