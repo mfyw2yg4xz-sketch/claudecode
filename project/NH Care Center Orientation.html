@@ -240,6 +240,136 @@ function SceneTicker({ timeline }) {
   );
 }
 
+// ── Video export ──────────────────────────────────────────────
+function VideoExportPanel() {
+  const [status, setStatus] = React.useState('idle'); // idle | waiting | recording | done | error
+  const [progress, setProgress] = React.useState(0);
+  const recRef = React.useRef(null);
+  const timerRef = React.useRef(null);
+  const intervalRef = React.useRef(null);
+
+  const cleanup = React.useCallback(() => {
+    if (timerRef.current) { clearTimeout(timerRef.current); timerRef.current = null; }
+    if (intervalRef.current) { clearInterval(intervalRef.current); intervalRef.current = null; }
+  }, []);
+
+  const cancel = React.useCallback(() => {
+    cleanup();
+    if (recRef.current && recRef.current.state === 'recording') recRef.current.stop();
+    recRef.current = null;
+    setStatus('idle');
+    setProgress(0);
+  }, [cleanup]);
+
+  const start = React.useCallback(async () => {
+    setStatus('waiting');
+    let stream;
+    try {
+      stream = await navigator.mediaDevices.getDisplayMedia({
+        video: { displaySurface: 'browser', frameRate: 30 },
+        audio: true,
+        preferCurrentTab: true,
+        selfBrowserSurface: 'include',
+      });
+    } catch (err) {
+      setStatus(err.name === 'NotAllowedError' ? 'idle' : 'error');
+      return;
+    }
+
+    const mimeType = ['video/webm;codecs=vp9,opus','video/webm;codecs=vp8,opus','video/webm']
+      .find(t => MediaRecorder.isTypeSupported(t)) || 'video/webm';
+
+    const chunks = [];
+    const rec = new MediaRecorder(stream, { mimeType, videoBitsPerSecond: 8_000_000 });
+    recRef.current = rec;
+
+    rec.ondataavailable = e => { if (e.data.size > 0) chunks.push(e.data); };
+    rec.onstop = () => {
+      stream.getTracks().forEach(t => t.stop());
+      cleanup();
+      const blob = new Blob(chunks, { type: mimeType });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'NH-Care-Center-Orientation.webm';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(() => URL.revokeObjectURL(url), 10_000);
+      setStatus('done');
+      recRef.current = null;
+    };
+
+    // Start recording, then reset + play
+    rec.start(1000);
+    setStatus('recording');
+    setProgress(0);
+
+    // Reset to t=0 and start playing
+    window.dispatchEvent(new CustomEvent('stage:seek', { detail: { time: 0 } }));
+    await new Promise(r => setTimeout(r, 400));
+    window.dispatchEvent(new KeyboardEvent('keydown', { code: 'Space', bubbles: true }));
+
+    const startedAt = Date.now();
+    intervalRef.current = setInterval(() => {
+      setProgress(Math.min((Date.now() - startedAt) / 1000 / TOTAL_DURATION, 1));
+    }, 1000);
+
+    timerRef.current = setTimeout(() => {
+      if (recRef.current && recRef.current.state === 'recording') recRef.current.stop();
+    }, (TOTAL_DURATION + 4) * 1000);
+  }, [cleanup]);
+
+  const totalMin = Math.round(TOTAL_DURATION / 60);
+  const elapsedSec = Math.round(progress * TOTAL_DURATION);
+  const remainSec = Math.max(0, Math.round(TOTAL_DURATION - elapsedSec));
+  const mm = Math.floor(remainSec / 60);
+  const ss = String(remainSec % 60).padStart(2, '0');
+
+  if (status === 'done') return (
+    <div style={{ color: '#2C5F7F', fontSize: 12, fontWeight: 700, textAlign: 'center', padding: '4px 0' }}>
+      ✓ Video saved to Downloads
+    </div>
+  );
+
+  if (status === 'recording') return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 7 }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, color: 'rgba(41,38,27,.7)' }}>
+        <span>Recording… {Math.round(progress * 100)}%</span>
+        <span>{mm}:{ss} left</span>
+      </div>
+      <div style={{ height: 5, background: 'rgba(0,0,0,.1)', borderRadius: 3, overflow: 'hidden' }}>
+        <div style={{ height: '100%', background: '#2C5F7F', borderRadius: 3,
+          width: `${progress * 100}%`, transition: 'width 1s linear' }} />
+      </div>
+      <button onClick={cancel} style={{ padding: '5px 10px', background: 'transparent',
+        color: 'rgba(41,38,27,.55)', border: '.5px solid rgba(41,38,27,.2)',
+        borderRadius: 7, fontSize: 11, cursor: 'pointer', fontFamily: 'inherit' }}>
+        Stop recording
+      </button>
+    </div>
+  );
+
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 7 }}>
+      <p style={{ margin: 0, fontSize: 11, color: 'rgba(41,38,27,.6)', lineHeight: 1.55 }}>
+        Records the full orientation (~{totalMin} min) as a <b>.webm</b> video.
+        {' '}In Chrome: select <em>this tab</em> and check <em>"Share tab audio"</em> to capture narration.
+      </p>
+      {status === 'error' && (
+        <p style={{ margin: 0, fontSize: 11, color: '#c0392b' }}>Recording failed. Try again in Chrome.</p>
+      )}
+      <button onClick={start} style={{ padding: '7px 14px', background: '#2C5F7F',
+        color: '#fff', border: 'none', borderRadius: 8, fontSize: 12,
+        fontWeight: 700, cursor: 'pointer', fontFamily: 'Nunito, sans-serif',
+        opacity: status === 'waiting' ? 0.6 : 1 }}
+        disabled={status === 'waiting'}>
+        {status === 'waiting' ? 'Select tab to share…' : '⬇ Download as Video'}
+      </button>
+    </div>
+  );
+}
+
 // ── Tweaks panel (uses tweaks-panel.jsx helpers) ──
 function TweaksControls({ tweaks, setTweak }) {
   return (
@@ -258,6 +388,8 @@ function TweaksControls({ tweaks, setTweak }) {
           />
         ))}
       </TweakSection>
+      <TweakSection label="Export" />
+      <VideoExportPanel />
     </TweaksPanel>
   );
 }
